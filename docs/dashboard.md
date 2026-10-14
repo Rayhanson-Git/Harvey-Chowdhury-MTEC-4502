@@ -1,16 +1,17 @@
 # Course dashboard
 
-**Last reviewed:** October 7, 2026 · **Current focus:** Assignment 1c ready to submit; Assignments 00, 1a, and 1b retain their recorded submission status
+**Last reviewed:** October 14, 2026 · **Current focus:** Assignments 1a-1d submitted; prepare Assignment 1e and the resume/portfolio checkpoints
 
-Dates below are retained from the initial syllabus review; Assignment 1a and 1b requirements and status were refreshed on October 7, 2026; the Assignment 1c brief and sources were also checked that day. Harvey confirmed that Assignments 1a and 1b are complete and uploaded to Brightspace. Exact upload timestamps and any Brightspace-only deadline updates are not recorded. Submission status follows Harvey’s confirmation.
+Dates below are retained from the initial syllabus review; Assignment 1a and 1b requirements and status were refreshed on October 7, 2026; the Assignment 1c brief and sources were also checked that day. Harvey confirmed that Assignments 1a and 1b are complete and uploaded to Brightspace. Exact upload timestamps and any Brightspace-only deadline updates are not recorded. Submission status follows Harvey’s confirmation. Harvey reconfirmed 1a-1c submissions on October 12, 2026 and confirmed the Assignment 1d Brightspace upload on October 14, 2026. These confirmations are not independently inspected Brightspace receipts.
 
 | Assignment | Due date (2026) | Requirements | Rubric targets | Progress | Next step |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 00 · Workspace setup | 09/02 (initial syllabus; brief says Week 1) | Required folder structure, research tools, course access, portfolio inventory and Brightspace submission | Accessible workspace link and completed setup checklist | Submitted | Workspace and instructor access confirmed; await instructor feedback |
 | 1a · Reflective essay | 09/09 (initial syllabus) | 750-1000 words; four required sections; PDF or Google Doc through Brightspace | Required headings, personal reflection, strengths/gaps, and initial 1-3 year strategy | Submitted | [Final PDF](../assignments/01-career-strategy/01a-reflective-essay-draft/Harvey_Chowdhury_Assignment_1a.pdf) archived; await instructor feedback |
 | 1b · Strategic framework | 09/16 (initial syllabus; brief says Week 3) | 750–1000 words plus tables; 3–5 job listings saved in Zotero; job comparison, skills gaps, values/resources, measurable goals and timeline | Four U.S. listings across career levels; required reflections; goals aligned with May 2028 graduation | Submitted | [Final PDF and editable files](../assignments/01-career-strategy/01b-strategic-framework-and-job-market-gap-analysis/README.md) uploaded; await instructor feedback |
-| 1c · Visualization | 09/23 (initial syllabus; current brief says Week 4) | All course job sites; 150-200-word tool comparison; SWOT; skills-gap chart; 150-word reflection; analyzed ads in own Zotero subcollection | 22 site records reviewed with access limits identified; both visuals labeled; targets trace to employer evidence | Ready to submit | Review [submission PDF](../assignments/01-career-strategy/01c-integrating-visualization/Harvey_Chowdhury_Assignment_1c.pdf) and submit through Brightspace when accepted |
-| 1d + 1e · Framework package | 09/30 | Future modeling, AI analysis, final framework package | Consult current assignment brief | Not started | Read both briefs |
+| 1c · Visualization | 09/23 (initial syllabus; current brief says Week 4) | All course job sites; 150-200-word tool comparison; SWOT; skills-gap chart; 150-word reflection; analyzed ads in own Zotero subcollection | 22 site records reviewed with access limits identified; both visuals labeled; targets trace to employer evidence | Submitted | Brightspace upload confirmed by Harvey October 12; await instructor feedback |
+| 1d · AI Collaboration and Career Futures | Before the next class, per current brief; exact timestamp unrecorded | Career-evidence summary; interaction record; 400-600-word analysis; two scenarios; framework decision | Evidence tracing, substantive follow-ups, scenario assumptions, verified observation and reasoned decision | Submitted | [PDF and Markdown](../assignments/01-career-strategy/01d-ai-collaboration-and-career-futures/README.md) archived; upload confirmed by Harvey October 14; await feedback |
+| 1e · Future Modeling and Adaptive Planning | Week 6 in current brief; confirm Brightspace timing | 500-750-word synthesis; core reading and new sources; main radar and sub-radars; competency rubric and action plan | Observable competencies, source evidence, recursive analysis and growth actions | Not started | Build on the 1d decisions and consult the current brief |
 | 02 · Résumé draft | 10/07 | Résumé draft | Consult current assignment brief | Not started | Gather existing résumé |
 | Portfolio selection checkpoint | 10/14 | Portfolio item list and platform selection | Consult current assignment brief | Planning | Review the initial inventory |
 | Résumé + portfolio checkpoint | 10/21 | Updated résumé and portfolio draft | Consult current assignment brief | Not started | Develop after critique |
@@ -24,9 +25,9 @@ Dates below are retained from the initial syllabus review; Assignment 1a and 1b 
 
 ## Priority actions
 
-1. Review the complete Assignment 1c submission copy and its interpreted target ratings; use the corresponding Brightspace link when accepted.
-2. Record instructor feedback for Assignments 1a and 1b when available.
-3. Gather screenshots and contribution notes for the [portfolio inventory](../portfolio-materials/INVENTORY.md).
+1. Prepare Assignment 1e from the 1d decisions; confirm current Brightspace timing.
+2. Gather resume evidence and evaluate portfolio items/platform for the upcoming checkpoints.
+3. Record instructor feedback for Assignments 1a-1d when available.
 
 ## Assignment 1b checkpoint
 
@@ -46,6 +47,12 @@ Dates below are retained from the initial syllabus review; Assignment 1a and 1b 
 - Artifacts: complete PDF, editable Word and Markdown, SWOT and skills chart PNG/SVG exports, editable draw.io diagrams, and source/rating data.
 - [Submission copy and requirement checklist](../assignments/01-career-strategy/01c-integrating-visualization/README.md).
 
+## Assignment 1d checkpoint
+
+- Harvey confirmed the Brightspace upload on October 14, 2026; exact upload time and receipt were not inspected.
+- Archive: supplied Markdown and matching six-page PDF; analysis is 499 words.
+- Submission status does not imply a grade or instructor approval.
+
 ## Submission record
 
 | Assignment | Submitted on | Submission location |
@@ -53,6 +60,8 @@ Dates below are retained from the initial syllabus review; Assignment 1a and 1b 
 | 00 | Marked submitted in the setup checklist; exact upload timestamp not recorded | Brightspace Course Workspace Setup; current brief requires no Issue URL |
 | 1a | Submission confirmed by Harvey October 7, 2026; exact upload timestamp not recorded | Brightspace Assignment 1a; upload confirmed by Harvey |
 | 1b | Submission confirmed by Harvey October 7, 2026; exact upload timestamp not recorded | Brightspace Assignment 1b; upload confirmed by Harvey |
+| 1c | Submission confirmed by Harvey October 12, 2026; exact upload timestamp not recorded | Brightspace Assignment 1c; upload confirmed by Harvey |
+| 1d | Submission confirmed by Harvey October 14, 2026; exact upload timestamp not recorded | Brightspace Assignment 1d; upload confirmed by Harvey |
 
 ## Missing information
 
