@@ -42,7 +42,7 @@ Based on the instructor’s [AI Collaboration Log Template](https://github.com/e
 
 ---
 
-## Assignment 1a: Final Proofreading, Formatting, and File Upload
+## Assignment 1a: Submission Review, Basic Language Checks, Formatting, and File Upload
 
 **Date:** October 7, 2026  
 **Tool / System:** Donna - my personal AI system used with OpenClaw  
@@ -50,11 +50,11 @@ Based on the instructor’s [AI Collaboration Log Template](https://github.com/e
 
 ### Instructions
 
-I asked Donna to proofread the essay, check spelling and grammar, improve the formatting, and automatically upload the final file to the correct coursework folder.
+I asked Donna to read through my assignment before submission, identify any missing requirements or irrelevant material, and check basic spelling and grammar. This is what I meant by proofreading. I also asked Donna to improve the document formatting and automatically upload the final file to the correct coursework folder.
 
 ### Work completed
 
-Donna checked the wording, spelling, and grammar, adjusted the essay formatting, and reviewed the exported PDF. The final document uses paragraphs, the four required section headings, double spacing, indented paragraphs, and page numbers.
+Donna reviewed the assignment for missing requirements or irrelevant material and checked basic spelling and grammar. This entry describes submission review and basic language checks. Formatting and file-management assistance are recorded separately: Donna adjusted the essay formatting and reviewed the exported PDF. The final document uses paragraphs, the four required section headings, double spacing, indented paragraphs, and page numbers.
 
 Donna uploaded the final PDF and editable copy to the Assignment 1a folder in my personal GitHub repository, updated the folder links and progress record, and verified that the uploaded files matched the local copies.
 
@@ -70,7 +70,7 @@ Donna helped me check the document and manage the files, folders, and repository
 
 ---
 
-## Assignment 1b: Research, Proofreading, Input, Formatting, and Repository Preparation
+## Assignment 1b: Research, Submission Review, Basic Language Checks, Input, Formatting, and Repository Preparation
 
 **Date:** October 7, 2026  
 **Tool / System:** Donna - my personal AI system used with OpenClaw
@@ -78,9 +78,9 @@ Donna helped me check the document and manage the files, folders, and repository
 ### Work completed
 
 - Donna was used to research U.S. job listings for Assignment 1b.
-- Donna was used to proofread the assignment.
+- Donna read through my assignment before submission, identified any missing requirements or irrelevant material, and checked basic spelling and grammar. This is what I meant by proofreading.
 - Donna was used to give input on my thoughts and career direction.
-- Donna was used to improve the style and formatting of the Word document.
+- Donna was used to improve the document presentation and formatting of the Word document.
 - Donna prepared the repository files for me to review and manually commit.
 
 
@@ -96,5 +96,13 @@ Donna helped me check the document and manage the files, folders, and repository
 - Donna listened to my ideas during our back-and-forth conversation.
 - I used speech-to-text and text-to-speech through Donna / OpenClaw AI to communicate.
 - I asked Donna to create the graphs using the information I provided.
-- Donna proofread and edited the material.
+- Donna read through my assignment before submission, identified any missing requirements or irrelevant material, and checked basic spelling and grammar. The earlier wording “proofread and edited” referred to these review and basic language checks.
 - Donna helped visualize my information.
+
+---
+
+## Clarification of Proofreading Entries
+
+**Clarification date:** October 14, 2026
+
+When I used the word proofreading in the entries above, I meant that Donna read through my assignments before submission, identified whether any requirements were missing or any material was irrelevant, and checked basic spelling and grammar. This clarification describes that review activity; the research, feedback, visualization, formatting, and file-management contributions are documented separately in their respective entries.
