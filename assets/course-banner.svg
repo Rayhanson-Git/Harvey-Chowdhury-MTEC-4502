@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">Harvey Chowdhury — MTEC 4502</title><desc id="desc">Career and Portfolio Seminar, Fall 2026. Creative development, interactive media, visual storytelling.</desc>
+<rect width="1200" height="300" rx="16" fill="#101116"/>
+<path d="M920 0H1200V300H780Z" fill="#19131a"/>
+<path d="M1020 0L880 300M1090 0L950 300M1160 0L1020 300" stroke="#4c1b29" stroke-width="1"/>
+<rect x="48" y="45" width="5" height="207" rx="2" fill="#e33555"/>
+<text x="78" y="76" font-family="Arial,sans-serif" font-size="15" letter-spacing="4" fill="#f1788e">CHOWDHURY / COURSE WORKSPACE</text>
+<text x="75" y="145" font-family="Arial,sans-serif" font-size="53" font-weight="700" fill="#f8f8fb">Harvey Chowdhury</text>
+<text x="78" y="187" font-family="Arial,sans-serif" font-size="22" fill="#c5c5d1">Career &amp; Portfolio Seminar</text>
+<text x="78" y="239" font-family="Arial,sans-serif" font-size="14" letter-spacing="2" fill="#a9a9b9">MTEC 4502 · CITY TECH · FALL 2026</text>
+<text x="981" y="165" font-family="Arial,sans-serif" font-size="62" font-weight="700" fill="#e33555">HC</text>
+</svg>

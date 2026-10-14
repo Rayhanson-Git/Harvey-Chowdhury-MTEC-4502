@@ -1,0 +1,159 @@
+{
+  "assignment": "MTEC 4502 Assignment 1c",
+  "student": "Harvey Chowdhury",
+  "prepared_date": "2026-10-07",
+  "repository": "Rayhanson-Git/Harvey-Chowdhury-MTEC-4502",
+  "base_commit": "acce77a829fd969570f34d9dda7f831424668ccc",
+  "instructor_brief_sha": "5f2d1fe8dd04f4e7435c4f0163131c970bb40b16",
+  "submission_status": "Ready to submit; user review and Brightspace submission follow",
+  "merge_instruction": "Merge package contents into repository root. Replace only matching files; preserve existing folders and other files.",
+  "manifest_note": "This new manifest is the 22nd package file. It is excluded from its own hash list to avoid a circular hash.",
+  "verification": {
+    "pdf_pages": 9,
+    "all_pages_visually_reviewed": true,
+    "platform_comparison_words": 185,
+    "reflection_words": 150,
+    "job_site_records": 22,
+    "employer_advertisements": 4,
+    "skills": 8,
+    "embedded_figures": 2,
+    "editable_diagram_pages": 2,
+    "repository_relative_links_checked": 97,
+    "broken_repository_relative_links": 0,
+    "manual_root_readme_content_preserved": true,
+    "previous_collaboration_log_content_preserved": true,
+    "new_collaboration_log_points": 6,
+    "hashed_file_counts": {
+      "new": 12,
+      "updated": 9
+    }
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "change": "updated",
+      "bytes": 6012,
+      "sha256": "ab412bde83a7fef0d9c7a282f1ea03e0052f45a30e5731183172b726c3999822"
+    },
+    {
+      "path": "assignments/01-career-strategy/01c-integrating-visualization/Harvey_Chowdhury_Assignment_1c.docx",
+      "change": "new",
+      "bytes": 654137,
+      "sha256": "50ec34a7fc4c36e470fa300720c06e530b11eb8bd53df65d74f7b12a556807ec"
+    },
+    {
+      "path": "assignments/01-career-strategy/01c-integrating-visualization/Harvey_Chowdhury_Assignment_1c.md",
+      "change": "new",
+      "bytes": 23549,
+      "sha256": "c12524fd285286738535c4f23789016317272149c0dc6dbdfdd777b092d2e249"
+    },
+    {
+      "path": "assignments/01-career-strategy/01c-integrating-visualization/Harvey_Chowdhury_Assignment_1c.pdf",
+      "change": "new",
+      "bytes": 945237,
+      "sha256": "5c73594851f93443ecd73b8a1f59759ce926e780fa1c74e314096a145fd1933d"
+    },
+    {
+      "path": "assignments/01-career-strategy/01c-integrating-visualization/README.md",
+      "change": "updated",
+      "bytes": 3381,
+      "sha256": "37d0a58be8f9828926faf41621778d94346da42ff82020834c6c2e32873edb40"
+    },
+    {
+      "path": "assignments/01-career-strategy/01c-integrating-visualization/data/job-sites-review.json",
+      "change": "new",
+      "bytes": 17069,
+      "sha256": "44080824700170e7c7210dd5b8714227a4f1fbf3a4c62ec577d667fa7a481c7b"
+    },
+    {
+      "path": "assignments/01-career-strategy/01c-integrating-visualization/data/skills-ratings.csv",
+      "change": "new",
+      "bytes": 1939,
+      "sha256": "240d62542a817c20d7f168ae51c05bcbc7b39ebd0ef64ea772947f59483b0c7c"
+    },
+    {
+      "path": "assignments/01-career-strategy/01c-integrating-visualization/data/source-records.json",
+      "change": "new",
+      "bytes": 2384,
+      "sha256": "2ce39951917e6468f289643765d8babb6a4f6377cad62baafc0aa22ea740b11d"
+    },
+    {
+      "path": "assignments/01-career-strategy/01c-integrating-visualization/visuals/Harvey_Chowdhury_Assignment_1c_Visuals.drawio",
+      "change": "new",
+      "bytes": 32331,
+      "sha256": "a40b080e8930126a6f3b5cbc92bacee61357e6ea565aeb2e2bbc49f43f01acc6"
+    },
+    {
+      "path": "assignments/01-career-strategy/01c-integrating-visualization/visuals/Harvey_Chowdhury_SWOT_Matrix.png",
+      "change": "new",
+      "bytes": 427324,
+      "sha256": "54201d76509d97713c2947b3ca14d4682f8ca5b342c080d59544b7dfacb68900"
+    },
+    {
+      "path": "assignments/01-career-strategy/01c-integrating-visualization/visuals/Harvey_Chowdhury_SWOT_Matrix.svg",
+      "change": "new",
+      "bytes": 6406,
+      "sha256": "844e5d8821bdcb06d408b5373c41b9790fd8e67f482340c4bd55b807c8348d74"
+    },
+    {
+      "path": "assignments/01-career-strategy/01c-integrating-visualization/visuals/Harvey_Chowdhury_Skills_Gap_Chart.png",
+      "change": "new",
+      "bytes": 237695,
+      "sha256": "6fe548dac67cac69c1113f469f556e5fdf9c796775f30f4951f5d7a61df0ce65"
+    },
+    {
+      "path": "assignments/01-career-strategy/01c-integrating-visualization/visuals/Harvey_Chowdhury_Skills_Gap_Chart.svg",
+      "change": "new",
+      "bytes": 8351,
+      "sha256": "c30321d0cc4585f5a221fb6007e02dce76c4a5f53c386d671aa5094668fa8322"
+    },
+    {
+      "path": "assignments/01-career-strategy/README.md",
+      "change": "updated",
+      "bytes": 4088,
+      "sha256": "f253c6c44798976ecf20bcd725d33e87e7a372629b918a8a06c48e295860a70a"
+    },
+    {
+      "path": "assignments/02-career-visualization/README.md",
+      "change": "updated",
+      "bytes": 2060,
+      "sha256": "ab6318799401a5ab80e803009c4b68633c96504d8769c9132c86066d37224c8e"
+    },
+    {
+      "path": "assignments/README.md",
+      "change": "updated",
+      "bytes": 3555,
+      "sha256": "242ee700c5cc8652c29bd591232a18457c21f6b4fc673c08d45852d47e4c947d"
+    },
+    {
+      "path": "docs/assignment-1c-package-guide.md",
+      "change": "new",
+      "bytes": 2795,
+      "sha256": "9b307ee123f371bf86599df83e926704fb432f64922d3b878c20060791c45719"
+    },
+    {
+      "path": "docs/course-index.md",
+      "change": "updated",
+      "bytes": 4173,
+      "sha256": "1445f4aebb75cd4942c389e603421fab8645081c428902410d0814cb95625cbb"
+    },
+    {
+      "path": "docs/dashboard.md",
+      "change": "updated",
+      "bytes": 7633,
+      "sha256": "502f85b014b05777d55db685bf3c7afbce42ade5b35fbadfc6f565651c39c071"
+    },
+    {
+      "path": "reflections/ai-collaboration-log.md",
+      "change": "updated",
+      "bytes": 4568,
+      "sha256": "a9c83c087ee1d9210a60dab1cbe59d4e40c6a007a8bba1835b31b0dc7e70e073"
+    },
+    {
+      "path": "research-notes/README.md",
+      "change": "updated",
+      "bytes": 4481,
+      "sha256": "085935e7e098507f6f6bb2c1a30a2bb980e520b816a3383be84d07724c2c6b4c"
+    }
+  ]
+}

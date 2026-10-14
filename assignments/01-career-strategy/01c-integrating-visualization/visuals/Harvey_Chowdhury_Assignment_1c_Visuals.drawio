@@ -1,0 +1,310 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mxfile host="app.diagrams.net" version="24.7.17">
+  <diagram id="Skills-Gap-Chart" name="Skills Gap Chart">
+    <mxGraphModel dx="1000" dy="1090" grid="0" page="1" pageScale="1" pageWidth="1000" pageHeight="1090">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" parent="1" vertex="1" value="&lt;div&gt;My skills and target profile&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=36;fontColor=#182B32;fontStyle=1;spacing=0;">
+          <mxGeometry as="geometry" x="35" y="25" width="950" height="53" />
+        </mxCell>
+        <mxCell id="3" parent="1" vertex="1" value="&lt;div&gt;Harvey Chowdhury | AI automation and interactive experiences&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=21;fontColor=#182B32;fontStyle=0;spacing=0;">
+          <mxGeometry as="geometry" x="35" y="78" width="950" height="34" />
+        </mxCell>
+        <mxCell id="4" parent="1" vertex="1" value="&lt;div&gt;Portfolio rebuild | Development goals toward May 2028&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=21;fontColor=#52616B;fontStyle=0;spacing=0;">
+          <mxGeometry as="geometry" x="35" y="108" width="950" height="34" />
+        </mxCell>
+        <mxCell id="5" parent="1" vertex="1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#087F8C;strokeColor=none;">
+          <mxGeometry as="geometry" x="35" y="155" width="22" height="18" />
+        </mxCell>
+        <mxCell id="6" parent="1" vertex="1" value="&lt;div&gt;Current self-rating&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=21;fontColor=#182B32;fontStyle=0;spacing=0;">
+          <mxGeometry as="geometry" x="68" y="149" width="932" height="34" />
+        </mxCell>
+        <mxCell id="7" parent="1" vertex="1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B85B12;strokeColor=none;">
+          <mxGeometry as="geometry" x="350" y="155" width="22" height="18" />
+        </mxCell>
+        <mxCell id="8" parent="1" vertex="1" value="&lt;div&gt;Interpreted target&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=21;fontColor=#182B32;fontStyle=0;spacing=0;">
+          <mxGeometry as="geometry" x="383" y="149" width="617" height="34" />
+        </mxCell>
+        <mxCell id="9" parent="1" vertex="1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E0E6E8;strokeColor=none;">
+          <mxGeometry as="geometry" x="529" y="205" width="1" height="645" />
+        </mxCell>
+        <mxCell id="10" parent="1" vertex="1" value="&lt;div&gt;1&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=22;fontColor=#182B32;fontStyle=0;spacing=0;">
+          <mxGeometry as="geometry" x="523" y="864" width="477" height="35" />
+        </mxCell>
+        <mxCell id="11" parent="1" vertex="1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E0E6E8;strokeColor=none;">
+          <mxGeometry as="geometry" x="628" y="205" width="1" height="645" />
+        </mxCell>
+        <mxCell id="12" parent="1" vertex="1" value="&lt;div&gt;2&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=22;fontColor=#182B32;fontStyle=0;spacing=0;">
+          <mxGeometry as="geometry" x="622" y="864" width="378" height="35" />
+        </mxCell>
+        <mxCell id="13" parent="1" vertex="1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E0E6E8;strokeColor=none;">
+          <mxGeometry as="geometry" x="727" y="205" width="1" height="645" />
+        </mxCell>
+        <mxCell id="14" parent="1" vertex="1" value="&lt;div&gt;3&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=22;fontColor=#182B32;fontStyle=0;spacing=0;">
+          <mxGeometry as="geometry" x="721" y="864" width="279" height="35" />
+        </mxCell>
+        <mxCell id="15" parent="1" vertex="1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E0E6E8;strokeColor=none;">
+          <mxGeometry as="geometry" x="826" y="205" width="1" height="645" />
+        </mxCell>
+        <mxCell id="16" parent="1" vertex="1" value="&lt;div&gt;4&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=22;fontColor=#182B32;fontStyle=0;spacing=0;">
+          <mxGeometry as="geometry" x="820" y="864" width="180" height="35" />
+        </mxCell>
+        <mxCell id="17" parent="1" vertex="1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E0E6E8;strokeColor=none;">
+          <mxGeometry as="geometry" x="925" y="205" width="1" height="645" />
+        </mxCell>
+        <mxCell id="18" parent="1" vertex="1" value="&lt;div&gt;5&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=22;fontColor=#182B32;fontStyle=0;spacing=0;">
+          <mxGeometry as="geometry" x="919" y="864" width="81" height="35" />
+        </mxCell>
+        <mxCell id="19" parent="1" vertex="1" value="&lt;div&gt;Programming fundamentals&lt;br&gt;(basic C++)&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=23;fontColor=#182B32;fontStyle=0;spacing=0;">
+          <mxGeometry as="geometry" x="35" y="212" width="365" height="64" />
+        </mxCell>
+        <mxCell id="20" parent="1" vertex="1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#087F8C;strokeColor=none;">
+          <mxGeometry as="geometry" x="430" y="216" width="99" height="18" />
+        </mxCell>
+        <mxCell id="21" parent="1" vertex="1" value="&lt;div&gt;1&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=22;fontColor=#182B32;fontStyle=1;spacing=0;">
+          <mxGeometry as="geometry" x="539" y="210" width="461" height="35" />
+        </mxCell>
+        <mxCell id="22" parent="1" vertex="1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B85B12;strokeColor=none;">
+          <mxGeometry as="geometry" x="430" y="246" width="297" height="18" />
+        </mxCell>
+        <mxCell id="23" parent="1" vertex="1" value="&lt;div&gt;3&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=22;fontColor=#182B32;fontStyle=1;spacing=0;">
+          <mxGeometry as="geometry" x="737" y="240" width="263" height="35" />
+        </mxCell>
+        <mxCell id="24" parent="1" vertex="1" value="&lt;div&gt;AI configuration&lt;br&gt;and automation&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=23;fontColor=#182B32;fontStyle=0;spacing=0;">
+          <mxGeometry as="geometry" x="35" y="291" width="365" height="64" />
+        </mxCell>
+        <mxCell id="25" parent="1" vertex="1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#087F8C;strokeColor=none;">
+          <mxGeometry as="geometry" x="430" y="295" width="297" height="18" />
+        </mxCell>
+        <mxCell id="26" parent="1" vertex="1" value="&lt;div&gt;3&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=22;fontColor=#182B32;fontStyle=1;spacing=0;">
+          <mxGeometry as="geometry" x="737" y="289" width="263" height="35" />
+        </mxCell>
+        <mxCell id="27" parent="1" vertex="1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B85B12;strokeColor=none;">
+          <mxGeometry as="geometry" x="430" y="325" width="396" height="18" />
+        </mxCell>
+        <mxCell id="28" parent="1" vertex="1" value="&lt;div&gt;4&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=22;fontColor=#182B32;fontStyle=1;spacing=0;">
+          <mxGeometry as="geometry" x="836" y="319" width="164" height="35" />
+        </mxCell>
+        <mxCell id="29" parent="1" vertex="1" value="&lt;div&gt;Hardware troubleshooting&lt;br&gt;and modification&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=23;fontColor=#182B32;fontStyle=0;spacing=0;">
+          <mxGeometry as="geometry" x="35" y="370" width="365" height="64" />
+        </mxCell>
+        <mxCell id="30" parent="1" vertex="1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#087F8C;strokeColor=none;">
+          <mxGeometry as="geometry" x="430" y="374" width="297" height="18" />
+        </mxCell>
+        <mxCell id="31" parent="1" vertex="1" value="&lt;div&gt;3&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=22;fontColor=#182B32;fontStyle=1;spacing=0;">
+          <mxGeometry as="geometry" x="737" y="368" width="263" height="35" />
+        </mxCell>
+        <mxCell id="32" parent="1" vertex="1" value="&lt;div&gt;Role dependent; no common target&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=19;fontColor=#52616B;fontStyle=0;spacing=0;">
+          <mxGeometry as="geometry" x="430" y="401" width="570" height="31" />
+        </mxCell>
+        <mxCell id="33" parent="1" vertex="1" value="&lt;div&gt;GitHub and&lt;br&gt;documentation&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=23;fontColor=#182B32;fontStyle=0;spacing=0;">
+          <mxGeometry as="geometry" x="35" y="449" width="365" height="64" />
+        </mxCell>
+        <mxCell id="34" parent="1" vertex="1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#087F8C;strokeColor=none;">
+          <mxGeometry as="geometry" x="430" y="453" width="297" height="18" />
+        </mxCell>
+        <mxCell id="35" parent="1" vertex="1" value="&lt;div&gt;3&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=22;fontColor=#182B32;fontStyle=1;spacing=0;">
+          <mxGeometry as="geometry" x="737" y="447" width="263" height="35" />
+        </mxCell>
+        <mxCell id="36" parent="1" vertex="1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B85B12;strokeColor=none;">
+          <mxGeometry as="geometry" x="430" y="483" width="297" height="18" />
+        </mxCell>
+        <mxCell id="37" parent="1" vertex="1" value="&lt;div&gt;3&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=22;fontColor=#182B32;fontStyle=1;spacing=0;">
+          <mxGeometry as="geometry" x="737" y="477" width="263" height="35" />
+        </mxCell>
+        <mxCell id="38" parent="1" vertex="1" value="&lt;div&gt;Interactive web&lt;br&gt;development&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=23;fontColor=#182B32;fontStyle=0;spacing=0;">
+          <mxGeometry as="geometry" x="35" y="528" width="365" height="64" />
+        </mxCell>
+        <mxCell id="39" parent="1" vertex="1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#087F8C;strokeColor=none;">
+          <mxGeometry as="geometry" x="430" y="532" width="247.5" height="18" />
+        </mxCell>
+        <mxCell id="40" parent="1" vertex="1" value="&lt;div&gt;2.5&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=22;fontColor=#182B32;fontStyle=1;spacing=0;">
+          <mxGeometry as="geometry" x="687.5" y="526" width="312.5" height="35" />
+        </mxCell>
+        <mxCell id="41" parent="1" vertex="1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B85B12;strokeColor=none;">
+          <mxGeometry as="geometry" x="430" y="562" width="396" height="18" />
+        </mxCell>
+        <mxCell id="42" parent="1" vertex="1" value="&lt;div&gt;4&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=22;fontColor=#182B32;fontStyle=1;spacing=0;">
+          <mxGeometry as="geometry" x="836" y="556" width="164" height="35" />
+        </mxCell>
+        <mxCell id="43" parent="1" vertex="1" value="&lt;div&gt;Visual design and&lt;br&gt;media creation&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=23;fontColor=#182B32;fontStyle=0;spacing=0;">
+          <mxGeometry as="geometry" x="35" y="607" width="365" height="64" />
+        </mxCell>
+        <mxCell id="44" parent="1" vertex="1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#087F8C;strokeColor=none;">
+          <mxGeometry as="geometry" x="430" y="611" width="297" height="18" />
+        </mxCell>
+        <mxCell id="45" parent="1" vertex="1" value="&lt;div&gt;3&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=22;fontColor=#182B32;fontStyle=1;spacing=0;">
+          <mxGeometry as="geometry" x="737" y="605" width="263" height="35" />
+        </mxCell>
+        <mxCell id="46" parent="1" vertex="1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B85B12;strokeColor=none;">
+          <mxGeometry as="geometry" x="430" y="641" width="297" height="18" />
+        </mxCell>
+        <mxCell id="47" parent="1" vertex="1" value="&lt;div&gt;3&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=22;fontColor=#182B32;fontStyle=1;spacing=0;">
+          <mxGeometry as="geometry" x="737" y="635" width="263" height="35" />
+        </mxCell>
+        <mxCell id="48" parent="1" vertex="1" value="&lt;div&gt;Practical testing&lt;br&gt;and responsible AI&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=23;fontColor=#182B32;fontStyle=0;spacing=0;">
+          <mxGeometry as="geometry" x="35" y="686" width="365" height="64" />
+        </mxCell>
+        <mxCell id="49" parent="1" vertex="1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#087F8C;strokeColor=none;">
+          <mxGeometry as="geometry" x="430" y="690" width="297" height="18" />
+        </mxCell>
+        <mxCell id="50" parent="1" vertex="1" value="&lt;div&gt;3&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=22;fontColor=#182B32;fontStyle=1;spacing=0;">
+          <mxGeometry as="geometry" x="737" y="684" width="263" height="35" />
+        </mxCell>
+        <mxCell id="51" parent="1" vertex="1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B85B12;strokeColor=none;">
+          <mxGeometry as="geometry" x="430" y="720" width="396" height="18" />
+        </mxCell>
+        <mxCell id="52" parent="1" vertex="1" value="&lt;div&gt;4&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=22;fontColor=#182B32;fontStyle=1;spacing=0;">
+          <mxGeometry as="geometry" x="836" y="714" width="164" height="35" />
+        </mxCell>
+        <mxCell id="53" parent="1" vertex="1" value="&lt;div&gt;Technical&lt;br&gt;collaboration&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=23;fontColor=#182B32;fontStyle=0;spacing=0;">
+          <mxGeometry as="geometry" x="35" y="765" width="365" height="64" />
+        </mxCell>
+        <mxCell id="54" parent="1" vertex="1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#087F8C;strokeColor=none;">
+          <mxGeometry as="geometry" x="430" y="769" width="297" height="18" />
+        </mxCell>
+        <mxCell id="55" parent="1" vertex="1" value="&lt;div&gt;3&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=22;fontColor=#182B32;fontStyle=1;spacing=0;">
+          <mxGeometry as="geometry" x="737" y="763" width="263" height="35" />
+        </mxCell>
+        <mxCell id="56" parent="1" vertex="1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B85B12;strokeColor=none;">
+          <mxGeometry as="geometry" x="430" y="799" width="297" height="18" />
+        </mxCell>
+        <mxCell id="57" parent="1" vertex="1" value="&lt;div&gt;3&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=22;fontColor=#182B32;fontStyle=1;spacing=0;">
+          <mxGeometry as="geometry" x="737" y="793" width="263" height="35" />
+        </mxCell>
+        <mxCell id="58" parent="1" vertex="1" value="&lt;div&gt;Subjective proficiency scale from 1 to 5&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=22;fontColor=#182B32;fontStyle=0;spacing=0;">
+          <mxGeometry as="geometry" x="430" y="903" width="570" height="35" />
+        </mxCell>
+        <mxCell id="59" parent="1" vertex="1" value="&lt;div&gt;1 Fundamentals   2 Guided work   3 Routine independent work&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=21;fontColor=#182B32;fontStyle=0;spacing=0;">
+          <mxGeometry as="geometry" x="35" y="946" width="950" height="34" />
+        </mxCell>
+        <mxCell id="60" parent="1" vertex="1" value="&lt;div&gt;4 Complex independent work   5 Expertise and mentoring&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=21;fontColor=#182B32;fontStyle=0;spacing=0;">
+          <mxGeometry as="geometry" x="35" y="977" width="950" height="34" />
+        </mxCell>
+        <mxCell id="61" parent="1" vertex="1" value="&lt;div&gt;Targets interpret J1-J3 tasks; employers did not supply numeric scores.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=20;fontColor=#52616B;fontStyle=0;spacing=0;">
+          <mxGeometry as="geometry" x="35" y="1015" width="950" height="33" />
+        </mxCell>
+        <mxCell id="62" parent="1" vertex="1" value="&lt;div&gt;Hardware is an additional strength. Sources and rating evidence accompany this chart.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=20;fontColor=#52616B;fontStyle=0;spacing=0;">
+          <mxGeometry as="geometry" x="35" y="1045" width="950" height="33" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="SWOT-Matrix" name="SWOT Matrix">
+    <mxGraphModel dx="1500" dy="1340" grid="0" page="1" pageScale="1" pageWidth="1500" pageHeight="1340">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" parent="1" vertex="1" value="&lt;div&gt;SWOT for my portfolio and career direction&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=45;fontColor=#182B32;fontStyle=1;spacing=0;">
+          <mxGeometry as="geometry" x="40" y="28" width="950" height="64" />
+        </mxCell>
+        <mxCell id="3" parent="1" vertex="1" value="&lt;div&gt;Harvey Chowdhury | AI automation and interactive experiences&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=29;fontColor=#182B32;fontStyle=0;spacing=0;">
+          <mxGeometry as="geometry" x="40" y="93" width="950" height="44" />
+        </mxCell>
+        <mxCell id="4" parent="1" vertex="1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E9F4F3;strokeColor=#D9D9D9;">
+          <mxGeometry as="geometry" x="40" y="164" width="685" height="517" />
+        </mxCell>
+        <mxCell id="5" parent="1" vertex="1" value="&lt;div&gt;Strengths&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=38;fontColor=#087F8C;fontStyle=1;spacing=0;">
+          <mxGeometry as="geometry" x="66" y="186" width="950" height="55" />
+        </mxCell>
+        <mxCell id="6" parent="1" vertex="1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#087F8C;strokeColor=none;">
+          <mxGeometry as="geometry" x="69" y="269" width="7" height="7" />
+        </mxCell>
+        <mxCell id="7" parent="1" vertex="1" value="&lt;div&gt;I retrace changes, troubleshoot, and learn&lt;br&gt;from mistakes.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=30;fontColor=#182B32;fontStyle=0;spacing=0;">
+          <mxGeometry as="geometry" x="93" y="255" width="602" height="82" />
+        </mxCell>
+        <mxCell id="8" parent="1" vertex="1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#087F8C;strokeColor=none;">
+          <mxGeometry as="geometry" x="69" y="371" width="7" height="7" />
+        </mxCell>
+        <mxCell id="9" parent="1" vertex="1" value="&lt;div&gt;OpenClaw and Hermes give me practical AI&lt;br&gt;configuration experience.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=30;fontColor=#182B32;fontStyle=0;spacing=0;">
+          <mxGeometry as="geometry" x="93" y="357" width="602" height="82" />
+        </mxCell>
+        <mxCell id="10" parent="1" vertex="1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#087F8C;strokeColor=none;">
+          <mxGeometry as="geometry" x="69" y="473" width="7" height="7" />
+        </mxCell>
+        <mxCell id="11" parent="1" vertex="1" value="&lt;div&gt;PC/controller work and visual media provide&lt;br&gt;portfolio case-study material.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=30;fontColor=#182B32;fontStyle=0;spacing=0;">
+          <mxGeometry as="geometry" x="93" y="459" width="602" height="82" />
+        </mxCell>
+        <mxCell id="12" parent="1" vertex="1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2E8;strokeColor=#D9D9D9;">
+          <mxGeometry as="geometry" x="775" y="164" width="685" height="517" />
+        </mxCell>
+        <mxCell id="13" parent="1" vertex="1" value="&lt;div&gt;Weaknesses&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=38;fontColor=#B85B12;fontStyle=1;spacing=0;">
+          <mxGeometry as="geometry" x="801" y="186" width="699" height="55" />
+        </mxCell>
+        <mxCell id="14" parent="1" vertex="1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B85B12;strokeColor=none;">
+          <mxGeometry as="geometry" x="804" y="269" width="7" height="7" />
+        </mxCell>
+        <mxCell id="15" parent="1" vertex="1" value="&lt;div&gt;Basic C++ and limited independent&lt;br&gt;programming.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=30;fontColor=#182B32;fontStyle=0;spacing=0;">
+          <mxGeometry as="geometry" x="828" y="255" width="602" height="82" />
+        </mxCell>
+        <mxCell id="16" parent="1" vertex="1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B85B12;strokeColor=none;">
+          <mxGeometry as="geometry" x="804" y="371" width="7" height="7" />
+        </mxCell>
+        <mxCell id="17" parent="1" vertex="1" value="&lt;div&gt;Interactive web development is between&lt;br&gt;guided and independent work.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=30;fontColor=#182B32;fontStyle=0;spacing=0;">
+          <mxGeometry as="geometry" x="828" y="357" width="602" height="82" />
+        </mxCell>
+        <mxCell id="18" parent="1" vertex="1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B85B12;strokeColor=none;">
+          <mxGeometry as="geometry" x="804" y="473" width="7" height="7" />
+        </mxCell>
+        <mxCell id="19" parent="1" vertex="1" value="&lt;div&gt;Testing and documentation need clearer,&lt;br&gt;repeatable evidence.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=30;fontColor=#182B32;fontStyle=0;spacing=0;">
+          <mxGeometry as="geometry" x="828" y="459" width="602" height="82" />
+        </mxCell>
+        <mxCell id="20" parent="1" vertex="1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EFF3FA;strokeColor=#D9D9D9;">
+          <mxGeometry as="geometry" x="40" y="716" width="685" height="517" />
+        </mxCell>
+        <mxCell id="21" parent="1" vertex="1" value="&lt;div&gt;Opportunities&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=38;fontColor=#3B5D8A;fontStyle=1;spacing=0;">
+          <mxGeometry as="geometry" x="66" y="738" width="950" height="55" />
+        </mxCell>
+        <mxCell id="22" parent="1" vertex="1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3B5D8A;strokeColor=none;">
+          <mxGeometry as="geometry" x="69" y="821" width="7" height="7" />
+        </mxCell>
+        <mxCell id="23" parent="1" vertex="1" value="&lt;div&gt;U.S. creative-technology roles connect AI&lt;br&gt;prototypes and interaction design [J1, J3].&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=30;fontColor=#182B32;fontStyle=0;spacing=0;">
+          <mxGeometry as="geometry" x="93" y="807" width="602" height="82" />
+        </mxCell>
+        <mxCell id="24" parent="1" vertex="1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3B5D8A;strokeColor=none;">
+          <mxGeometry as="geometry" x="69" y="923" width="7" height="7" />
+        </mxCell>
+        <mxCell id="25" parent="1" vertex="1" value="&lt;div&gt;Interactive &amp;amp; Immersive Jobs, FutureSpaces,&lt;br&gt;and City Tech resources fit my direction.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=30;fontColor=#182B32;fontStyle=0;spacing=0;">
+          <mxGeometry as="geometry" x="93" y="909" width="602" height="82" />
+        </mxCell>
+        <mxCell id="26" parent="1" vertex="1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3B5D8A;strokeColor=none;">
+          <mxGeometry as="geometry" x="69" y="1025" width="7" height="7" />
+        </mxCell>
+        <mxCell id="27" parent="1" vertex="1" value="&lt;div&gt;Hardware could lead toward physical&lt;br&gt;interaction after further learning [J3].&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=30;fontColor=#182B32;fontStyle=0;spacing=0;">
+          <mxGeometry as="geometry" x="93" y="1011" width="602" height="82" />
+        </mxCell>
+        <mxCell id="28" parent="1" vertex="1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F6EEF3;strokeColor=#D9D9D9;">
+          <mxGeometry as="geometry" x="775" y="716" width="685" height="517" />
+        </mxCell>
+        <mxCell id="29" parent="1" vertex="1" value="&lt;div&gt;Threats&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=38;fontColor=#874766;fontStyle=1;spacing=0;">
+          <mxGeometry as="geometry" x="801" y="738" width="699" height="55" />
+        </mxCell>
+        <mxCell id="30" parent="1" vertex="1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#874766;strokeColor=none;">
+          <mxGeometry as="geometry" x="804" y="821" width="7" height="7" />
+        </mxCell>
+        <mxCell id="31" parent="1" vertex="1" value="&lt;div&gt;School and family responsibilities compete&lt;br&gt;for limited project time.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=30;fontColor=#182B32;fontStyle=0;spacing=0;">
+          <mxGeometry as="geometry" x="828" y="807" width="602" height="82" />
+        </mxCell>
+        <mxCell id="32" parent="1" vertex="1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#874766;strokeColor=none;">
+          <mxGeometry as="geometry" x="804" y="923" width="7" height="7" />
+        </mxCell>
+        <mxCell id="33" parent="1" vertex="1" value="&lt;div&gt;AI costs and fast-changing tools can make&lt;br&gt;experiments difficult to sustain.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=30;fontColor=#182B32;fontStyle=0;spacing=0;">
+          <mxGeometry as="geometry" x="828" y="909" width="602" height="82" />
+        </mxCell>
+        <mxCell id="34" parent="1" vertex="1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#874766;strokeColor=none;">
+          <mxGeometry as="geometry" x="804" y="1025" width="7" height="7" />
+        </mxCell>
+        <mxCell id="35" parent="1" vertex="1" value="&lt;div&gt;Experience and role-specific&lt;br&gt;work-authorization requirements narrow&lt;br&gt;suitable openings.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=30;fontColor=#182B32;fontStyle=0;spacing=0;">
+          <mxGeometry as="geometry" x="828" y="1011" width="602" height="119" />
+        </mxCell>
+        <mxCell id="36" parent="1" vertex="1" value="&lt;div&gt;Current project: interactive portfolio | School and family first | Normally 3-4 hours weekly, maximum 5&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=27;fontColor=#182B32;fontStyle=0;spacing=0;">
+          <mxGeometry as="geometry" x="40" y="1271" width="950" height="41" />
+        </mxCell>
+        <mxCell id="37" parent="1" vertex="1" value="&lt;div&gt;AI budget: $20-$60 total per month | J1 and J3 are the employer evidence linked in the document&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=25;fontColor=#52616B;fontStyle=0;spacing=0;">
+          <mxGeometry as="geometry" x="40" y="1310" width="950" height="39" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

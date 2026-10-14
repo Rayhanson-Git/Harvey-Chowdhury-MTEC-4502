@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="1340" viewBox="0 0 1500 1340" role="img" aria-labelledby="title desc">
+<title id="title">SWOT Matrix</title><desc id="desc">Strengths, weaknesses, opportunities and threats for rebuilding an interactive portfolio while developing an AI automation and interactive experiences career.</desc>
+<rect width="1500" height="1340" fill="#FFFFFF"/>
+<text x="40" y="73" fill="#182B32" font-family="Arial, sans-serif" font-size="45" font-weight="700">SWOT for my portfolio and career direction</text>
+<text x="40" y="122" fill="#182B32" font-family="Arial, sans-serif" font-size="29" font-weight="400">Harvey Chowdhury | AI automation and interactive experiences</text>
+<rect x="40" y="164" width="685" height="517" fill="#E9F4F3" stroke="#D9D9D9"/>
+<text x="66" y="224" fill="#087F8C" font-family="Arial, sans-serif" font-size="38" font-weight="700">Strengths</text>
+<rect x="69" y="269" width="7" height="7" fill="#087F8C" stroke="none"/>
+<text x="93" y="285" fill="#182B32" font-family="Arial, sans-serif" font-size="30" font-weight="400">I retrace changes, troubleshoot, and learn</text>
+<text x="93" y="322" fill="#182B32" font-family="Arial, sans-serif" font-size="30" font-weight="400">from mistakes.</text>
+<rect x="69" y="371" width="7" height="7" fill="#087F8C" stroke="none"/>
+<text x="93" y="387" fill="#182B32" font-family="Arial, sans-serif" font-size="30" font-weight="400">OpenClaw and Hermes give me practical AI</text>
+<text x="93" y="424" fill="#182B32" font-family="Arial, sans-serif" font-size="30" font-weight="400">configuration experience.</text>
+<rect x="69" y="473" width="7" height="7" fill="#087F8C" stroke="none"/>
+<text x="93" y="489" fill="#182B32" font-family="Arial, sans-serif" font-size="30" font-weight="400">PC/controller work and visual media provide</text>
+<text x="93" y="526" fill="#182B32" font-family="Arial, sans-serif" font-size="30" font-weight="400">portfolio case-study material.</text>
+<rect x="775" y="164" width="685" height="517" fill="#FFF2E8" stroke="#D9D9D9"/>
+<text x="801" y="224" fill="#B85B12" font-family="Arial, sans-serif" font-size="38" font-weight="700">Weaknesses</text>
+<rect x="804" y="269" width="7" height="7" fill="#B85B12" stroke="none"/>
+<text x="828" y="285" fill="#182B32" font-family="Arial, sans-serif" font-size="30" font-weight="400">Basic C++ and limited independent</text>
+<text x="828" y="322" fill="#182B32" font-family="Arial, sans-serif" font-size="30" font-weight="400">programming.</text>
+<rect x="804" y="371" width="7" height="7" fill="#B85B12" stroke="none"/>
+<text x="828" y="387" fill="#182B32" font-family="Arial, sans-serif" font-size="30" font-weight="400">Interactive web development is between</text>
+<text x="828" y="424" fill="#182B32" font-family="Arial, sans-serif" font-size="30" font-weight="400">guided and independent work.</text>
+<rect x="804" y="473" width="7" height="7" fill="#B85B12" stroke="none"/>
+<text x="828" y="489" fill="#182B32" font-family="Arial, sans-serif" font-size="30" font-weight="400">Testing and documentation need clearer,</text>
+<text x="828" y="526" fill="#182B32" font-family="Arial, sans-serif" font-size="30" font-weight="400">repeatable evidence.</text>
+<rect x="40" y="716" width="685" height="517" fill="#EFF3FA" stroke="#D9D9D9"/>
+<text x="66" y="776" fill="#3B5D8A" font-family="Arial, sans-serif" font-size="38" font-weight="700">Opportunities</text>
+<rect x="69" y="821" width="7" height="7" fill="#3B5D8A" stroke="none"/>
+<text x="93" y="837" fill="#182B32" font-family="Arial, sans-serif" font-size="30" font-weight="400">U.S. creative-technology roles connect AI</text>
+<text x="93" y="874" fill="#182B32" font-family="Arial, sans-serif" font-size="30" font-weight="400">prototypes and interaction design [J1, J3].</text>
+<rect x="69" y="923" width="7" height="7" fill="#3B5D8A" stroke="none"/>
+<text x="93" y="939" fill="#182B32" font-family="Arial, sans-serif" font-size="30" font-weight="400">Interactive &amp; Immersive Jobs, FutureSpaces,</text>
+<text x="93" y="976" fill="#182B32" font-family="Arial, sans-serif" font-size="30" font-weight="400">and City Tech resources fit my direction.</text>
+<rect x="69" y="1025" width="7" height="7" fill="#3B5D8A" stroke="none"/>
+<text x="93" y="1041" fill="#182B32" font-family="Arial, sans-serif" font-size="30" font-weight="400">Hardware could lead toward physical</text>
+<text x="93" y="1078" fill="#182B32" font-family="Arial, sans-serif" font-size="30" font-weight="400">interaction after further learning [J3].</text>
+<rect x="775" y="716" width="685" height="517" fill="#F6EEF3" stroke="#D9D9D9"/>
+<text x="801" y="776" fill="#874766" font-family="Arial, sans-serif" font-size="38" font-weight="700">Threats</text>
+<rect x="804" y="821" width="7" height="7" fill="#874766" stroke="none"/>
+<text x="828" y="837" fill="#182B32" font-family="Arial, sans-serif" font-size="30" font-weight="400">School and family responsibilities compete</text>
+<text x="828" y="874" fill="#182B32" font-family="Arial, sans-serif" font-size="30" font-weight="400">for limited project time.</text>
+<rect x="804" y="923" width="7" height="7" fill="#874766" stroke="none"/>
+<text x="828" y="939" fill="#182B32" font-family="Arial, sans-serif" font-size="30" font-weight="400">AI costs and fast-changing tools can make</text>
+<text x="828" y="976" fill="#182B32" font-family="Arial, sans-serif" font-size="30" font-weight="400">experiments difficult to sustain.</text>
+<rect x="804" y="1025" width="7" height="7" fill="#874766" stroke="none"/>
+<text x="828" y="1041" fill="#182B32" font-family="Arial, sans-serif" font-size="30" font-weight="400">Experience and role-specific</text>
+<text x="828" y="1078" fill="#182B32" font-family="Arial, sans-serif" font-size="30" font-weight="400">work-authorization requirements narrow</text>
+<text x="828" y="1115" fill="#182B32" font-family="Arial, sans-serif" font-size="30" font-weight="400">suitable openings.</text>
+<text x="40" y="1298" fill="#182B32" font-family="Arial, sans-serif" font-size="27" font-weight="400">Current project: interactive portfolio | School and family first | Normally 3-4 hours weekly, maximum 5</text>
+<text x="40" y="1335" fill="#52616B" font-family="Arial, sans-serif" font-size="25" font-weight="400">AI budget: $20-$60 total per month | J1 and J3 are the employer evidence linked in the document</text>
+</svg>

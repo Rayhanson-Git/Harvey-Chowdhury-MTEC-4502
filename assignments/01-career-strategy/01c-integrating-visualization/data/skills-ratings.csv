@@ -1,0 +1,9 @@
+skill,current_self_rating,interpreted_target,scale_min,scale_max,source_codes,evidence
+Programming fundamentals,1,3,1,5,"J1, J2",My C++ knowledge is very basic. I need to understand and modify the code and API data flow used in a working web prototype; these advertisements do not require C++ specifically.
+AI configuration and automation,3,4,1,5,"J1, J3","OpenClaw, Hermes, and Obsidian memory work support my configuration rating. The next level is a repeatable integration with clear inputs, outputs, limits, and failure handling."
+Hardware troubleshooting and modification,3,,1,5,J3 optional,"My DualSense modification added rear controls, clicky switches, and weight. PC repairs add practical evidence. Embedded coding and microcontroller work would need separate evidence."
+GitHub and documentation,3,3,1,5,"J1, J2","I navigate GitHub and maintain repository documents. I need clear setup, contribution, and troubleshooting notes that another person can follow, plus evidence of the Git workflow."
+Interactive web development,2.5,4,1,5,"J1, J2","My rating sits between guided and routine independent work. I want to build responsive project previews and explain their behavior, code, accessibility, and error states."
+Visual design and media creation,3,3,1,5,"J1, J3","I edit YouTube videos in DaVinci Resolve, photos in Lightroom, graphics in Illustrator, and art in Procreate. I need to show how those skills support usable interactive presentation."
+Practical testing and responsible AI,3,4,1,5,"J1, J3","I retrace changes and use a separate experimental computer with limited files. I need recorded tests, repeatable checks, and clear boundaries; these precautions do not establish verified secure isolation."
+Technical collaboration,3,3,1,5,"J1, J2, J3","I seek peer input and support technical work with others. I need to explain decisions, record feedback, and show what changed after review of a working prototype."
