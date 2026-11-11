@@ -8,10 +8,10 @@
 | 1b | [Strategic framework and gap analysis](01b-strategic-framework-and-job-market-gap-analysis/README.md) | Submitted |
 | 1c | [Integrating visualization](01c-integrating-visualization/README.md) | Submitted |
 | 1d | [AI Collaboration and Career Futures](01d-ai-collaboration-and-career-futures/README.md) | Submitted |
-| 1e | [Future modeling and recursive competency mapping](01e-future-modeling-and-adaptive-planning/README.md) | Ready to submit |
+| 1e | [Future modeling and recursive competency mapping](01e-future-modeling-and-adaptive-planning/README.md) | Submitted |
 | 1f | [Cumulative collaboration reflection](01f-ai-collaboration-analysis-and-critical-reflection/README.md) | Not started |
 
-Submitted states follow Harvey's confirmations. Assignment 1e is ready to submit. Brightspace submission is not recorded.
+Submitted states follow Harvey's confirmations. Harvey confirmed the Assignment 1e Brightspace upload on November 11, 2026.
 
 ## Current source links
 

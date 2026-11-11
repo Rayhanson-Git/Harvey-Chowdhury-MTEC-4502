@@ -18,13 +18,13 @@ This repository records my course work, project evidence, career decisions, and 
 
 **Instructor:** Dr. David B. Smith · **Expected graduation:** May 2028
 
-## Current focus
+## Latest submission
 
-**Assignment 1e - Ready to submit.** The package includes a 593-word synthesis, three complete competency charts, 18 rubrics, annotated research, and an action plan.
+**Assignment 1e - Submitted to Brightspace on November 11, 2026.** The package includes a 593-word synthesis, three complete competency charts, 18 rubrics, annotated research, and an action plan.
 
 [Open the assignment](assignments/01-career-strategy/01e-future-modeling-and-adaptive-planning/README.md) · [Read the PDF](assignments/01-career-strategy/01e-future-modeling-and-adaptive-planning/Harvey_Chowdhury_Assignment_1e.pdf)
 
-Programming is level 2 and debugging is level 3. All four research records are saved in the shared Zotero collection. Assignments 1a-1d are recorded as submitted based on my confirmations.
+Programming is level 2 and debugging is level 3. All six research records are saved in the shared Zotero collection. Assignments 1a-1e are recorded as submitted based on my confirmations.
 
 ## Selected evidence
 

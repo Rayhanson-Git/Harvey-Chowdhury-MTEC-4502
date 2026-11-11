@@ -20,9 +20,8 @@ Assignment 00 documentation is in the [setup checklist](../docs/setup-checklist.
 | 1a · Reflective essay | [Assignment 1a folder](01-career-strategy/01a-reflective-essay-draft/README.md) | Submitted to Brightspace |
 | 1b · Strategic framework and gap analysis | [Final PDF, Markdown, and Word](01-career-strategy/01b-strategic-framework-and-job-market-gap-analysis/README.md) | Submitted to Brightspace |
 | 1c · Career visualization | [Submission PDF, editable files, visuals, and evidence](01-career-strategy/01c-integrating-visualization/README.md) | Submitted to Brightspace, confirmed by Harvey |
-
 | 1d - Career futures | [Submitted files](01-career-strategy/01d-ai-collaboration-and-career-futures/README.md) | Submitted to Brightspace, confirmed by Harvey |
-| 1e - Future modeling | [Assignment](01-career-strategy/01e-future-modeling-and-adaptive-planning/README.md) | Ready to submit |
+| 1e - Future modeling | [Assignment](01-career-strategy/01e-future-modeling-and-adaptive-planning/README.md) | Submitted to Brightspace, confirmed by Harvey November 11 |
 | 1f - Cumulative reflection | [Workspace](01-career-strategy/01f-ai-collaboration-analysis-and-critical-reflection/README.md) | Not started |
 
 See the [dashboard](../docs/dashboard.md) for next actions and the submission record.

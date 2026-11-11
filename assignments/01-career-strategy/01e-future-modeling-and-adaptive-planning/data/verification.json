@@ -1,6 +1,6 @@
 {
   "checked": "2026-11-11",
-  "classification": "Ready to submit",
+  "classification": "Submitted",
   "synthesis_words": 593,
   "pdf_pages": 19,
   "main_axes": 8,
@@ -19,5 +19,11 @@
   "supplemental_zotero_item_keys": [
     "QQCUXHW8",
     "KCGCKWXX"
-  ]
+  ],
+  "submission": {
+    "platform": "Brightspace",
+    "confirmation_date": "2026-11-11",
+    "confirmed_by": "Harvey",
+    "confirmation": "done uploading."
+  }
 }
