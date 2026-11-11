@@ -1,6 +1,6 @@
 <div align="center">
 
-![Harvey Chowdhury - Career and Portfolio Seminar](assets/course-banner.svg)
+![Harvey Chowdhury - Career and Portfolio Seminar](assets/course-banner.png)
 
 # Career, craft, and the work behind them
 
