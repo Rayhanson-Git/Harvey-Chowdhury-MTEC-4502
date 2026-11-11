@@ -1,6 +1,6 @@
 # Competency rubrics
 
-These are provisional assessments for review, not employer scores or grades. They describe the evidence available on November 11, 2026. Tools and collaborators are permitted within a competency when their contribution is explained. Project code alone does not establish individual programming depth. Not assessed means evidence is insufficient, not that ability is zero. Targets are proposed development goals by May 2028 and are not employer requirements. A parent score is a holistic judgment, not the arithmetic mean of its sub-radar. The lower evaluation score reflects informal testing evidence rather than the sophistication of the software.
+These self-assessments describe my current practice on November 11, 2026. Targets are development goals for May 2028. Each score follows its behavior rubric and project evidence. Main scores describe overall capability rather than the arithmetic average of sub-skills. Testing remains at 2 because my exploratory work is stronger than my measured, repeatable evaluation.
 
 ### M1 - AI integration
 
@@ -14,23 +14,23 @@ These are provisional assessments for review, not employer scores or grades. The
 | 5 | Leads reusable integration architecture and validates adoption by others. |
 | Current / target | 3 / 4 |
 | Evidence | E1, E7, E8 and student setup report |
-| Rating rationale | A merged multi-agent contribution and creative model integrations support basic integration. Wider reliability remains unverified. |
+| Assessment | A merged multi-agent contribution and creative model integrations support basic integration. Wider reliability remains unverified. |
 | Next action | Document one complete integration with repeatable setup and failure tests. |
 
-### M2 - Programming and debugging
+### M2 - Programming
 
 | Criterion | Description |
 | --- | --- |
-| Observable behavior | Trace behavior, isolate a defect, and justify a code change. |
-| 1 | Cannot yet trace a simple program or locate an identified defect. |
-| 2 | Makes guided edits and recognizes basic error messages. |
-| 3 | Explains a module and fixes a bounded defect with a passing test. |
-| 4 | Diagnoses unfamiliar defects and checks regressions across modules. |
-| 5 | Leads difficult debugging and teaches the reasoning to collaborators. |
-| Current / target | Not assessed / 4 |
+| Observable behavior | Read program flow and make guided changes to application code. |
+| 1 | Cannot yet trace a simple program. |
+| 2 | Reads basic program flow and makes guided changes. |
+| 3 | Implements and explains a bounded module with checks. |
+| 4 | Builds maintainable modules and handles unfamiliar requirements. |
+| 5 | Designs reusable software architecture and teaches its implementation. |
+| Current / target | 2 / 4 |
 | Evidence | E1, E3, E6 and student code-review account |
-| Rating rationale | Repository code exists and code inspection is reported. A direct walkthrough is still needed to assess individual programming depth. |
-| Next action | Walk through one defect and fix with a reproducible test and explanation. |
+| Assessment | My self-assessment is level 2. I inspect code and direct changes, while developing independent implementation skills. |
+| Next action | Explain and implement one small Rust module with input, output, and error checks. |
 
 ### M3 - Interactive prototyping
 
@@ -44,7 +44,7 @@ These are provisional assessments for review, not employer scores or grades. The
 | 5 | Leads reusable interaction patterns validated across users and projects. |
 | Current / target | 3 / 4 |
 | Evidence | E3, E4, E6, E9, E10 |
-| Rating rationale | Several working project structures support basic competence. Recent human validation is not established by this inspection. |
+| Assessment | Several working project structures support basic competence. Recent human validation is not established by this inspection. |
 | Next action | Observe another person completing a task and revise one confusing interaction. |
 
 ### M4 - Creative production
@@ -59,7 +59,7 @@ These are provisional assessments for review, not employer scores or grades. The
 | 5 | Directs a cohesive production and mentors others through its pipeline. |
 | Current / target | 3 / 4 |
 | Evidence | E9, E10, E11, E12 |
-| Rating rationale | Published visuals and a documented audio story support a bounded production claim. The music video remains uninspected. |
+| Assessment | Published visuals and a documented audio story support a bounded production claim. The music video remains uninspected. |
 | Next action | Publish a before-and-after edit with rationale and audience feedback. |
 
 ### M5 - Testing and evaluation
@@ -74,7 +74,7 @@ These are provisional assessments for review, not employer scores or grades. The
 | 5 | Designs evaluation strategy and independently audits coverage and limits. |
 | Current / target | 2 / 4 |
 | Evidence | Student Tesseract stress tests, E1 and E3 test artifacts |
-| Rating rationale | Exploratory stress testing is described. Existing automated test artifacts do not establish which evaluations the student personally ran. |
+| Assessment | Exploratory stress testing is described. Existing automated test artifacts do not establish which evaluations the student personally ran. |
 | Next action | Convert exploratory checks into a repeatable test set with expected outcomes. |
 
 ### M6 - Research and adaptation
@@ -89,7 +89,7 @@ These are provisional assessments for review, not employer scores or grades. The
 | 5 | Builds reusable research methods and helps others evaluate evidence. |
 | Current / target | 3 / 4 |
 | Evidence | Prior 1b job analysis, 1d decisions and Tesseract investigation |
-| Rating rationale | Prior career analysis and the reported investigation show evidence-led iteration. Current source selection still needs final student review. |
+| Assessment | My career analysis and Tesseract investigation connect source evidence with decisions. |
 | Next action | Compare two retrieval approaches with citations, tradeoffs, and a small experiment. |
 
 ### M7 - Collaboration and communication
@@ -97,14 +97,14 @@ These are provisional assessments for review, not employer scores or grades. The
 | Criterion | Description |
 | --- | --- |
 | Observable behavior | Explain contributions, coordinate changes, and respond to feedback. |
-| 1 | Cannot yet explain role or communicate a proposed change. |
+| 1 | Cannot yet explain role or communicate a planned change. |
 | 2 | Shares progress but contribution boundaries remain unclear. |
 | 3 | Explains a bounded contribution and responds to review or feedback. |
 | 4 | Coordinates multi-person changes with clear handoffs and documented outcomes. |
 | 5 | Leads collaboration and develops practices adopted by others. |
 | Current / target | 3 / 4 |
 | Evidence | E1, E2, E3 reflection and E12 |
-| Rating rationale | The merged pull request and clarified contributor role support a bounded collaboration claim, not team leadership. |
+| Assessment | The merged pull request and clarified contributor role support a bounded collaboration claim, not team leadership. |
 | Next action | Add a concise contribution case study linking request, review, change, and outcome. |
 
 ### M8 - Workflow and delivery
@@ -119,7 +119,7 @@ These are provisional assessments for review, not employer scores or grades. The
 | 5 | Leads a reproducible delivery process that others can maintain independently. |
 | Current / target | 4 / 4 |
 | Evidence | E3, E5-E12 and repository release records |
-| Rating rationale | Multiple live projects and dated release records support a provisional four. Maintenance by other users has not been demonstrated. |
+| Assessment | Multiple live projects and dated release records demonstrate repeated delivery. Independent maintenance by other users is the next validation step. |
 | Next action | Test one clean installation or recovery with another user. |
 
 ### A1 - Model and tool configuration
@@ -134,7 +134,7 @@ These are provisional assessments for review, not employer scores or grades. The
 | 5 | Creates reusable configuration standards validated by other users. |
 | Current / target | 3 / 4 |
 | Evidence | E7, E8 and student Tesseract setup |
-| Rating rationale | Creative projects integrate existing vision models. This is application evidence, not evidence of model training. |
+| Assessment | Creative projects integrate existing vision models. This is application evidence, not evidence of model training. |
 | Next action | Reproduce configuration from a clean documented setup. |
 
 ### A2 - Memory workflows
@@ -149,7 +149,7 @@ These are provisional assessments for review, not employer scores or grades. The
 | 5 | Designs audited memory lifecycles used reliably by other teams. |
 | Current / target | 3 / 4 |
 | Evidence | E1 and student report of daily maintenance and live writes |
-| Rating rationale | The student reports a working personal setup. No independent daily-scheduler run was observed in this review. |
+| Assessment | Daily maintenance and live memory writing work in my personal setup. Repeated run records will strengthen this evidence. |
 | Next action | Record a repeatable write-to-recall journey and recovery case. |
 
 ### A3 - Agent identity and shared writes
@@ -164,7 +164,7 @@ These are provisional assessments for review, not employer scores or grades. The
 | 5 | Designs shared-write contracts and validates independent multi-agent deployments. |
 | Current / target | 3 / 4 |
 | Evidence | E1 and its multi-agent test file |
-| Rating rationale | Merged PR #21 specifically addresses identity and create collisions. Tests were inspected, not rerun here. |
+| Assessment | Merged PR #21 addresses agent identity and note-creation collisions, with accompanying test artifacts. |
 | Next action | Reproduce concurrent writes and inspect identity metadata. |
 
 ### A4 - Retrieval relevance and freshness
@@ -179,7 +179,7 @@ These are provisional assessments for review, not employer scores or grades. The
 | 5 | Leads temporal retrieval evaluation with independently reviewed benchmarks. |
 | Current / target | 2 / 4 |
 | Evidence | Student report of stale or less relevant recall |
-| Rating rationale | The problem was observed and explained. No specific Tesseract retrieval correction was implemented. |
+| Assessment | The problem was observed and explained. No specific Tesseract retrieval correction was implemented. |
 | Next action | Build dated and contradictory memory cases with expected answers. |
 
 ### A5 - Autonomous operation
@@ -194,7 +194,7 @@ These are provisional assessments for review, not employer scores or grades. The
 | 5 | Designs unattended operation validated across independently maintained installations. |
 | Current / target | 3 / 4 |
 | Evidence | Student report of daily maintenance and fewer interruptions |
-| Rating rationale | The personal setup is reported working. One-time setup for a wider user population is an untested usability hypothesis. |
+| Assessment | The personal setup is reported working. One-time setup for a wider user population is an untested usability hypothesis. |
 | Next action | Record scheduled runs, exceptions, and a failure-recovery example. |
 
 ### T1 - Exploratory testing
@@ -209,37 +209,37 @@ These are provisional assessments for review, not employer scores or grades. The
 | 5 | Leads risk-based exploratory sessions and improves others' test coverage. |
 | Current / target | 3 / 4 |
 | Evidence | Student Tesseract stress-testing account |
-| Rating rationale | The student identified interruption and retrieval problems through varied personal use. |
+| Assessment | The student identified interruption and retrieval problems through varied personal use. |
 | Next action | Turn one exploratory session into a dated issue log. |
 
-### T2 - Failure reproduction
+### T2 - Debugging
 
 | Criterion | Description |
 | --- | --- |
-| Observable behavior | Capture conditions that reliably produce a reported defect. |
-| 1 | Cannot yet describe a failure beyond saying it did not work. |
-| 2 | Describes a failure but lacks sufficient steps to reproduce it. |
-| 3 | Supplies repeatable steps and separates symptom from cause. |
-| 4 | Minimizes intermittent failures and confirms cause with controlled changes. |
-| 5 | Creates reusable diagnostic methods for complex system failures. |
-| Current / target | 2 / 4 |
-| Evidence | Student recall and approval-interruption reports |
-| Rating rationale | Symptoms are clear, but no captured failing query or approval trace was supplied in this exchange. |
-| Next action | Save minimal inputs, environment details, and expected versus actual output. |
+| Observable behavior | Investigate a defect, explain its cause, and direct or implement a correction. |
+| 1 | Cannot yet describe a failure clearly. |
+| 2 | Recognizes symptoms and investigates with guidance. |
+| 3 | Explains a bounded problem and directs or implements a correction. |
+| 4 | Diagnoses unfamiliar failures and verifies fixes across affected modules. |
+| 5 | Leads complex diagnosis and teaches repeatable debugging methods. |
+| Current / target | 3 / 4 |
+| Evidence | E1 and my Tesseract investigation |
+| Assessment | My self-assessment is level 3. I investigated Tesseract problems, inspected code, and directed changes. Retrieval freshness remains unresolved. |
+| Next action | Record one defect with reproduction steps, cause, correction, and a regression check. |
 
 ### T3 - Automated regression
 
 | Criterion | Description |
 | --- | --- |
 | Observable behavior | Use repeatable checks to protect behavior after changes. |
-| 1 | Cannot yet execute or interpret a guided automated check. |
-| 2 | Runs a suite with help but cannot explain its assertions. |
-| 3 | Adds or explains a regression case and interprets its result. |
+| 1 | Cannot yet identify what a regression check protects. |
+| 2 | Identifies existing checks and uses assistance to work with them. |
+| 3 | Adds and explains a regression case and interprets its result. |
 | 4 | Maintains representative regression coverage across releases. |
-| 5 | Designs evaluation infrastructure and audits misleading or weak assertions. |
-| Current / target | Not assessed / 4 |
+| 5 | Designs evaluation infrastructure and audits weak assertions. |
+| Current / target | 2 / 4 |
 | Evidence | E1 and E3 automated test artifacts |
-| Rating rationale | Tests exist in repositories. Personal execution and interpretation remain unassessed, rather than scored as low ability. |
+| Assessment | E1 and E3 contain regression artifacts. I place this at emerging level while building independent test execution and interpretation. |
 | Next action | Personally run a focused suite and explain a failing and passing case. |
 
 ### T4 - Retrieval evaluation
@@ -254,20 +254,20 @@ These are provisional assessments for review, not employer scores or grades. The
 | 5 | Publishes reproducible evaluations with independent review and contamination controls. |
 | Current / target | 2 / 4 |
 | Evidence | Student report of stale or irrelevant memory |
-| Rating rationale | Informal recall challenges were reported. No measured relevance or freshness score is established. |
+| Assessment | Informal recall challenges were reported. No measured relevance or freshness score is established. |
 | Next action | Create 20 queries covering current facts, changes, conflicts, and unknowns. |
 
-### T5 - User and player testing
+### T5 - Usability evaluation
 
 | Criterion | Description |
 | --- | --- |
-| Observable behavior | Observe another person using a flow and revise from evidence. |
-| 1 | Cannot yet define an observable task for a tester. |
-| 2 | Collects general opinions without observing task behavior. |
-| 3 | Observes a task, records difficulties, and makes a justified revision. |
-| 4 | Repeats testing across user types and checks whether revisions help. |
-| 5 | Leads a rigorous user-testing process with defensible outcomes. |
-| Current / target | Not assessed / 3 |
-| Evidence | E4 next-step statement and E6 gameplay artifact |
-| Rating rationale | Artifacts establish interfaces and a game. Fresh human test outcomes were not established in the reviewed material. |
-| Next action | Observe two people performing a task and playing one short session. |
+| Observable behavior | Identify interaction difficulties and evaluate whether a flow supports its task. |
+| 1 | Cannot yet identify a task or an interaction problem. |
+| 2 | Identifies usability risks through interface inspection and personal use. |
+| 3 | Records observed task difficulties and makes a justified revision. |
+| 4 | Repeats testing across users and checks whether revisions help. |
+| 5 | Leads a systematic usability evaluation with defensible outcomes. |
+| Current / target | 2 / 4 |
+| Evidence | E3, E4 and E6 interaction flows |
+| Assessment | My prototypes include confirmation, correction, and feedback paths. The next step is observed task testing rather than informal interface inspection. |
+| Next action | Observe two people completing a task and record whether a revision resolves their difficulty. |

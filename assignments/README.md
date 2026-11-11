@@ -22,7 +22,7 @@ Assignment 00 documentation is in the [setup checklist](../docs/setup-checklist.
 | 1c · Career visualization | [Submission PDF, editable files, visuals, and evidence](01-career-strategy/01c-integrating-visualization/README.md) | Submitted to Brightspace, confirmed by Harvey |
 
 | 1d - Career futures | [Submitted files](01-career-strategy/01d-ai-collaboration-and-career-futures/README.md) | Submitted to Brightspace, confirmed by Harvey |
-| 1e v2 - Future modeling | [Review package](01-career-strategy/01e-future-modeling-and-adaptive-planning/README.md) | Draft complete, score review and Zotero pending |
+| 1e - Future modeling | [Assignment](01-career-strategy/01e-future-modeling-and-adaptive-planning/README.md) | Ready to submit |
 | 1f - Cumulative reflection | [Workspace](01-career-strategy/01f-ai-collaboration-analysis-and-critical-reflection/README.md) | Not started |
 
 See the [dashboard](../docs/dashboard.md) for next actions and the submission record.

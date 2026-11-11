@@ -110,35 +110,12 @@ When I used the word proofreading in the entries above, I meant that Donna read 
 
 ---
 
-## Assignment 1e draft and repository update
+## Assignment 1e preparation and repository update
 
-**Date:** November 11, 2026  
-**Tool / system:** Donna through OpenAI Codex. The exact model version is not retained in this record. Earlier development tools and model names were described verbally and some names remain unconfirmed.
+**Date:** November 11, 2026
 
-### Purpose and prompts
+I clarified my applied AI engineering direction, my contributor role in Tesseract, and my plans for a Rust retrieval system. Donna inspected the portfolio, repositories, contribution records, and course instructions, then assisted with research, writing, rubrics, charts, PDF layout, and repository organization.
 
-I clarified my goal as applied AI engineering connected with creative production and game development. I explained my Tesseract testing and contribution process, the unresolved recall issue, and my planned Rust system.
+I corrected programming to level 2 and debugging to level 3. I requested simpler branding and removal of version and review notices. Four research records were saved to the shared Zotero collection with two-sentence annotations. The completed assignment is ready to submit. Brightspace submission has not been recorded.
 
-**Key prompt, exact excerpt:**
-
-> Inspect those projects' repositories, inspect everything, then come back.
-
-**Repository direction, exact excerpt:**
-
-> Make the repository look nice as well.
-
-Donna inspected the live portfolio, project code, contribution records, and the current course instructions. Donna helped locate and read career research, organize evidence, draft the synthesis, propose ratings and rubrics, create charts and a PDF, and update the repository navigation and trackers. The essay is written in my first-person voice from my stated direction and experience. That format does not imply that the drafting and organization were unassisted.
-
-### Corrections and authorial decisions
-
-- I distinguished being a contributor from having created Tesseract originally.
-- I clarified that recall problems concerned relevance or freshness rather than necessarily the wrong agent.
-- I reported that fewer interruptions, agent identities, daily maintenance, and live writing work in my own setup.
-- I stated that I did not implement a specific retrieval-freshness correction.
-- I identified the Rust system as future work and the music video as completed but unpublished.
-- Current scores and targets are proposed for my review. They are not yet confirmed as my final assessment.
-- Earlier 1a log language is retained as history. My later clarification states that I wrote the original draft without AI and used permitted workflow/upload assistance.
-
-### Verification and limits
-
-Source links and repository artifacts support the evidence register. Repository test results are described as historical records unless rerun in this work. Live webcam behavior, listening quality, and personal programming depth were not independently established. New Zotero records remain pending authentication. The first 1e package is a review draft, not a submitted assignment or a statement that I have approved all prose and ratings.
+My Tesseract retrieval-freshness problem remains unresolved. The music video is completed but unpublished, and the Rust system is future work. Existing repository tests support the evidence record but were not rerun during this preparation.

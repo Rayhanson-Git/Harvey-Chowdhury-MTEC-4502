@@ -1,8 +1,8 @@
 {
-  "review_date": "2026-11-11",
-  "status": "provisional_for_student_review",
+  "assessment_date": "2026-11-11",
+  "status": "self_assessment",
   "target_date": "2028-05",
-  "method": "These are provisional assessments for review, not employer scores or grades. They describe the evidence available on November 11, 2026. Tools and collaborators are permitted within a competency when their contribution is explained. Project code alone does not establish individual programming depth. Not assessed means evidence is insufficient, not that ability is zero. Targets are proposed development goals by May 2028 and are not employer requirements. A parent score is a holistic judgment, not the arithmetic mean of its sub-radar. The lower evaluation score reflects informal testing evidence rather than the sophistication of the software.",
+  "method": "These self-assessments describe my current practice on November 11, 2026. Targets are development goals for May 2028. Each score follows its behavior rubric and project evidence. Main scores describe overall capability rather than the arithmetic average of sub-skills. Testing remains at 2 because my exploratory work is stronger than my measured, repeatable evaluation.",
   "competencies": [
     {
       "id": "M1",
@@ -25,20 +25,20 @@
     {
       "id": "M2",
       "group": "Main",
-      "name": "Programming and debugging",
-      "definition": "Trace behavior, isolate a defect, and justify a code change.",
-      "current": null,
+      "name": "Programming",
+      "definition": "Read program flow and make guided changes to application code.",
+      "current": 2,
       "target": 4,
       "evidence": "E1, E3, E6 and student code-review account",
-      "action": "Walk through one defect and fix with a reproducible test and explanation.",
+      "action": "Explain and implement one small Rust module with input, output, and error checks.",
       "levels": [
-        "Cannot yet trace a simple program or locate an identified defect.",
-        "Makes guided edits and recognizes basic error messages.",
-        "Explains a module and fixes a bounded defect with a passing test.",
-        "Diagnoses unfamiliar defects and checks regressions across modules.",
-        "Leads difficult debugging and teaches the reasoning to collaborators."
+        "Cannot yet trace a simple program.",
+        "Reads basic program flow and makes guided changes.",
+        "Implements and explains a bounded module with checks.",
+        "Builds maintainable modules and handles unfamiliar requirements.",
+        "Designs reusable software architecture and teaches its implementation."
       ],
-      "rationale": "Repository code exists and code inspection is reported. A direct walkthrough is still needed to assess individual programming depth."
+      "rationale": "My self-assessment is level 2. I inspect code and direct changes, while developing independent implementation skills."
     },
     {
       "id": "M3",
@@ -110,7 +110,7 @@
         "Triangulates conflicting sources and tests uncertain technical claims.",
         "Builds reusable research methods and helps others evaluate evidence."
       ],
-      "rationale": "Prior career analysis and the reported investigation show evidence-led iteration. Current source selection still needs final student review."
+      "rationale": "My career analysis and Tesseract investigation connect source evidence with decisions."
     },
     {
       "id": "M7",
@@ -122,7 +122,7 @@
       "evidence": "E1, E2, E3 reflection and E12",
       "action": "Add a concise contribution case study linking request, review, change, and outcome.",
       "levels": [
-        "Cannot yet explain role or communicate a proposed change.",
+        "Cannot yet explain role or communicate a planned change.",
         "Shares progress but contribution boundaries remain unclear.",
         "Explains a bounded contribution and responds to review or feedback.",
         "Coordinates multi-person changes with clear handoffs and documented outcomes.",
@@ -146,7 +146,7 @@
         "Repeatedly delivers projects with organized source and release evidence.",
         "Leads a reproducible delivery process that others can maintain independently."
       ],
-      "rationale": "Multiple live projects and dated release records support a provisional four. Maintenance by other users has not been demonstrated."
+      "rationale": "Multiple live projects and dated release records demonstrate repeated delivery. Independent maintenance by other users is the next validation step."
     },
     {
       "id": "A1",
@@ -182,7 +182,7 @@
         "Checks persistence and recovery across repeated sessions.",
         "Designs audited memory lifecycles used reliably by other teams."
       ],
-      "rationale": "The student reports a working personal setup. No independent daily-scheduler run was observed in this review."
+      "rationale": "Daily maintenance and live memory writing work in my personal setup. Repeated run records will strengthen this evidence."
     },
     {
       "id": "A3",
@@ -200,7 +200,7 @@
         "Reproduces concurrent behavior across supported platforms and failure paths.",
         "Designs shared-write contracts and validates independent multi-agent deployments."
       ],
-      "rationale": "Merged PR #21 specifically addresses identity and create collisions. Tests were inspected, not rerun here."
+      "rationale": "Merged PR #21 addresses agent identity and note-creation collisions, with accompanying test artifacts."
     },
     {
       "id": "A4",
@@ -259,38 +259,38 @@
     {
       "id": "T2",
       "group": "Testing and evaluation",
-      "name": "Failure reproduction",
-      "definition": "Capture conditions that reliably produce a reported defect.",
-      "current": 2,
+      "name": "Debugging",
+      "definition": "Investigate a defect, explain its cause, and direct or implement a correction.",
+      "current": 3,
       "target": 4,
-      "evidence": "Student recall and approval-interruption reports",
-      "action": "Save minimal inputs, environment details, and expected versus actual output.",
+      "evidence": "E1 and my Tesseract investigation",
+      "action": "Record one defect with reproduction steps, cause, correction, and a regression check.",
       "levels": [
-        "Cannot yet describe a failure beyond saying it did not work.",
-        "Describes a failure but lacks sufficient steps to reproduce it.",
-        "Supplies repeatable steps and separates symptom from cause.",
-        "Minimizes intermittent failures and confirms cause with controlled changes.",
-        "Creates reusable diagnostic methods for complex system failures."
+        "Cannot yet describe a failure clearly.",
+        "Recognizes symptoms and investigates with guidance.",
+        "Explains a bounded problem and directs or implements a correction.",
+        "Diagnoses unfamiliar failures and verifies fixes across affected modules.",
+        "Leads complex diagnosis and teaches repeatable debugging methods."
       ],
-      "rationale": "Symptoms are clear, but no captured failing query or approval trace was supplied in this exchange."
+      "rationale": "My self-assessment is level 3. I investigated Tesseract problems, inspected code, and directed changes. Retrieval freshness remains unresolved."
     },
     {
       "id": "T3",
       "group": "Testing and evaluation",
       "name": "Automated regression",
       "definition": "Use repeatable checks to protect behavior after changes.",
-      "current": null,
+      "current": 2,
       "target": 4,
       "evidence": "E1 and E3 automated test artifacts",
       "action": "Personally run a focused suite and explain a failing and passing case.",
       "levels": [
-        "Cannot yet execute or interpret a guided automated check.",
-        "Runs a suite with help but cannot explain its assertions.",
-        "Adds or explains a regression case and interprets its result.",
+        "Cannot yet identify what a regression check protects.",
+        "Identifies existing checks and uses assistance to work with them.",
+        "Adds and explains a regression case and interprets its result.",
         "Maintains representative regression coverage across releases.",
-        "Designs evaluation infrastructure and audits misleading or weak assertions."
+        "Designs evaluation infrastructure and audits weak assertions."
       ],
-      "rationale": "Tests exist in repositories. Personal execution and interpretation remain unassessed, rather than scored as low ability."
+      "rationale": "E1 and E3 contain regression artifacts. I place this at emerging level while building independent test execution and interpretation."
     },
     {
       "id": "T4",
@@ -313,20 +313,20 @@
     {
       "id": "T5",
       "group": "Testing and evaluation",
-      "name": "User and player testing",
-      "definition": "Observe another person using a flow and revise from evidence.",
-      "current": null,
-      "target": 3,
-      "evidence": "E4 next-step statement and E6 gameplay artifact",
-      "action": "Observe two people performing a task and playing one short session.",
+      "name": "Usability evaluation",
+      "definition": "Identify interaction difficulties and evaluate whether a flow supports its task.",
+      "current": 2,
+      "target": 4,
+      "evidence": "E3, E4 and E6 interaction flows",
+      "action": "Observe two people completing a task and record whether a revision resolves their difficulty.",
       "levels": [
-        "Cannot yet define an observable task for a tester.",
-        "Collects general opinions without observing task behavior.",
-        "Observes a task, records difficulties, and makes a justified revision.",
-        "Repeats testing across user types and checks whether revisions help.",
-        "Leads a rigorous user-testing process with defensible outcomes."
+        "Cannot yet identify a task or an interaction problem.",
+        "Identifies usability risks through interface inspection and personal use.",
+        "Records observed task difficulties and makes a justified revision.",
+        "Repeats testing across users and checks whether revisions help.",
+        "Leads a systematic usability evaluation with defensible outcomes."
       ],
-      "rationale": "Artifacts establish interfaces and a game. Fresh human test outcomes were not established in the reviewed material."
+      "rationale": "My prototypes include confirmation, correction, and feedback paths. The next step is observed task testing rather than informal interface inspection."
     }
   ]
 }

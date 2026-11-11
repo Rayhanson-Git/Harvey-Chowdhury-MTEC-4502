@@ -1,6 +1,6 @@
 # Course dashboard
 
-**Last reviewed:** November 11, 2026 · **Current focus:** Assignment 1e v2 review package
+**Last reviewed:** November 11, 2026 · **Current focus:** Assignment 1e
 
 Dates below are retained from the initial syllabus review. Assignment 1a and 1b requirements and status were refreshed on October 7, 2026. the Assignment 1c brief and sources were also checked that day. Harvey confirmed that Assignments 1a and 1b are complete and uploaded to Brightspace. Exact upload timestamps and any Brightspace-only deadline updates are not recorded. Submission status follows Harvey’s confirmation. Harvey reconfirmed 1a-1c submissions on October 12, 2026 and confirmed the Assignment 1d Brightspace upload on October 14, 2026. These confirmations are not independently inspected Brightspace receipts.
 
@@ -11,7 +11,7 @@ Dates below are retained from the initial syllabus review. Assignment 1a and 1b 
 | 1b · Strategic framework | 09/16 (initial syllabus. brief says Week 3) | 750–1000 words plus tables. 3–5 job listings saved in Zotero. job comparison, skills gaps, values/resources, measurable goals and timeline | Four U.S. listings across career levels. required reflections. goals aligned with May 2028 graduation | Submitted | [Final PDF and editable files](../assignments/01-career-strategy/01b-strategic-framework-and-job-market-gap-analysis/README.md) uploaded. await instructor feedback |
 | 1c · Visualization | 09/23 (initial syllabus. current brief says Week 4) | All course job sites. 150-200-word tool comparison. SWOT. skills-gap chart. 150-word reflection. analyzed ads in own Zotero subcollection | 22 site records reviewed with access limits identified. both visuals labeled. targets trace to employer evidence | Submitted | Brightspace upload confirmed by Harvey October 12. await instructor feedback |
 | 1d · AI Collaboration and Career Futures | Before the next class, per current brief. exact timestamp unrecorded | Career-evidence summary. interaction record. 400-600-word analysis. two scenarios. framework decision | Evidence tracing, substantive follow-ups, scenario assumptions, verified observation and reasoned decision | Submitted | [PDF and Markdown](../assignments/01-career-strategy/01d-ai-collaboration-and-career-futures/README.md) archived. upload confirmed by Harvey October 14. await feedback |
-| 1e · Future Modeling and Adaptive Planning | Week 6 in current brief. confirm Brightspace timing | 500-750-word synthesis. core reading and new sources. main radar and sub-radars. competency rubric and action plan | Observable competencies, source evidence, recursive analysis and growth actions | Draft complete | Review proposed scores, save annotated research in shared Zotero, and confirm formal submission details |
+| 1e · Future Modeling and Adaptive Planning | Week 6 in current brief. confirm Brightspace timing | 500-750-word synthesis. core reading and new sources. main radar and sub-radars. competency rubric and action plan | Observable competencies, source evidence, recursive analysis and growth actions | Ready to submit | Submit the completed PDF in Brightspace |
 | 02 · Résumé draft | 10/07 | Résumé draft | Consult current assignment brief | Not started | Gather existing résumé |
 | Portfolio selection checkpoint | 10/14 | Portfolio item list and platform selection | Working links, selected evidence, and platform rationale | In progress | Nine projects are published at rayhanson.tech. Formal course submission remains unverified |
 | Résumé + portfolio checkpoint | 10/21 | Updated résumé and portfolio draft | Consult current assignment brief | In progress | Live portfolio inspected November 11. Resume and formal checkpoint submissions need reconciliation |
@@ -25,8 +25,8 @@ Dates below are retained from the initial syllabus review. Assignment 1a and 1b 
 
 ## Priority actions
 
-1. Review the prepared Assignment 1e package and confirm current Brightspace timing.
-2. Complete shared Zotero saving after authentication, then add verified source item links.
+1. Submit the completed Assignment 1e PDF in Brightspace.
+2. Continue to Assignment 1f after submitting 1e.
 3. Record instructor feedback for Assignments 1a-1d when available.
 
 ## Assignment 1b checkpoint
@@ -71,7 +71,7 @@ Dates below are retained from the initial syllabus review. Assignment 1a and 1b 
 
 ## Status vocabulary
 
-Not started · Planning · In progress · Draft complete · Needs revision · Ready to submit · Submitted · Completed
+Not started · Planning · In progress · Ready to submit · Needs revision · Ready to submit · Submitted · Completed
 
 [Source: course syllabus](https://github.com/entertainmenttechnology/Smith-MTEC4502-2026F/blob/main/course-materials/MTEC_4502_Syllabus_2026F.md) · [Workspace](../README.md)
 
@@ -81,16 +81,48 @@ The live setup checklist marks GitHub client sign-in, Brightspace registration, 
 
 
 
-## November 11 evidence update
+## November 11 update
 
-- 1e v2 now has a 599-word synthesis, eight-axis main radar, two five-axis sub-radars, 18 rubrics, a source import aid, and an action plan.
-- Progress is Draft complete. Submission readiness is Needs revision until current scores and targets are reviewed and Zotero saving is verified.
-- Proposed focus is applied AI engineering with creative and game-development applications.
-- The live portfolio has nine case studies. Tesseract PR #21 supplies a separately evidenced merged contribution.
-- Personal testing reports establish the student's account of a working setup, not a benchmark or wider user result.
-- Resume and other later assignments retain their earlier workspace statuses unless new evidence is recorded. Those historical entries are not a claim that the student has done no work elsewhere.
-- Harvey reports permission from the professor to catch up. No replacement deadline is recorded.
-- A later clarification states that the 1a draft was unassisted and workflow/upload assistance was permitted by the professor. This is a student-reported permission, not a new interpretation of the written brief.
-- The music video is reported complete but unpublished. The Rust system remains planned.
+- Assignment 1e is ready to submit, with a 593-word synthesis, three complete charts, 18 rubrics, and an action plan.
+- Programming is level 2 and debugging is level 3.
+- Four annotated sources are saved in the shared Zotero collection.
+- The live portfolio contains nine case studies. The music video awaits publication and the Rust system is planned.
+- Harvey reports permission to catch up. No replacement deadline or Brightspace submission is recorded.
 
-[Open the 1e review package](../assignments/01-career-strategy/01e-future-modeling-and-adaptive-planning/README.md)
+[Open Assignment 1e](../assignments/01-career-strategy/01e-future-modeling-and-adaptive-planning/README.md)
+## November 11 update
+
+- Assignment 1e is ready to submit, with a 593-word synthesis, three complete charts, 18 rubrics, and an action plan.
+- Programming is level 2 and debugging is level 3.
+- Four annotated sources are saved in the shared Zotero collection.
+- The live portfolio contains nine case studies. The music video awaits publication and the Rust system is planned.
+- Harvey reports permission to catch up. No replacement deadline or Brightspace submission is recorded.
+
+[Open Assignment 1e](../assignments/01-career-strategy/01e-future-modeling-and-adaptive-planning/README.md)
+## November 11 update
+
+- Assignment 1e is ready to submit, with a 593-word synthesis, three complete charts, 18 rubrics, and an action plan.
+- Programming is level 2 and debugging is level 3.
+- Four annotated sources are saved in the shared Zotero collection.
+- The live portfolio contains nine case studies. The music video awaits publication and the Rust system is planned.
+- Harvey reports permission to catch up. No replacement deadline or Brightspace submission is recorded.
+
+[Open Assignment 1e](../assignments/01-career-strategy/01e-future-modeling-and-adaptive-planning/README.md)
+## November 11 update
+
+- Assignment 1e is ready to submit, with a 593-word synthesis, three complete charts, 18 rubrics, and an action plan.
+- Programming is level 2 and debugging is level 3.
+- Four annotated sources are saved in the shared Zotero collection.
+- The live portfolio contains nine case studies. The music video awaits publication and the Rust system is planned.
+- Harvey reports permission to catch up. No replacement deadline or Brightspace submission is recorded.
+
+[Open Assignment 1e](../assignments/01-career-strategy/01e-future-modeling-and-adaptive-planning/README.md)
+## November 11 update
+
+- Assignment 1e is ready to submit, with a 593-word synthesis, three complete charts, 18 rubrics, and an action plan.
+- Programming is level 2 and debugging is level 3.
+- Four annotated sources are saved in the shared Zotero collection.
+- The live portfolio contains nine case studies. The music video awaits publication and the Rust system is planned.
+- Harvey reports permission to catch up. No replacement deadline or Brightspace submission is recorded.
+
+[Open Assignment 1e](../assignments/01-career-strategy/01e-future-modeling-and-adaptive-planning/README.md)

@@ -20,11 +20,11 @@ This repository records my course work, project evidence, career decisions, and 
 
 ## Current focus
 
-**Assignment 1e v2 - Draft complete, awaiting my review.** The package includes a 599-word synthesis, an eight-axis career radar, two detailed radars, 18 competency rubrics, annotated research, and a growth plan.
+**Assignment 1e - Ready to submit.** The package includes a 593-word synthesis, three complete competency charts, 18 rubrics, annotated research, and an action plan.
 
-[Open the review package](assignments/01-career-strategy/01e-future-modeling-and-adaptive-planning/README.md) · [Read the PDF](assignments/01-career-strategy/01e-future-modeling-and-adaptive-planning/Harvey_Chowdhury_Assignment_1e.pdf)
+[Open the assignment](assignments/01-career-strategy/01e-future-modeling-and-adaptive-planning/README.md) · [Read the PDF](assignments/01-career-strategy/01e-future-modeling-and-adaptive-planning/Harvey_Chowdhury_Assignment_1e.pdf)
 
-Current ratings are provisional. Shared Zotero saving and final submission checks remain pending. Assignments 1a-1d are recorded as submitted based on my confirmations.
+Programming is level 2 and debugging is level 3. All four research records are saved in the shared Zotero collection. Assignments 1a-1d are recorded as submitted based on my confirmations.
 
 ## Selected evidence
 

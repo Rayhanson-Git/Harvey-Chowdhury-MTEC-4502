@@ -29,10 +29,10 @@
 
 | Material | Date / version | Topic | Important content | Related assignment |
 | --- | --- | --- | --- | --- |
-| [1e v2](https://github.com/entertainmenttechnology/Smith-MTEC4502-2026F/blob/main/assignments/01e_Future_Modeling_and_Adaptive_Planning.md) | Checked November 11, SHA `25e2d2625bb707210e0e392f6d6e735c76e7a74e` | Future modeling | 500-750 words, core plus independent research, recursive radars, rubrics and plan | 1e |
+| [1e](https://github.com/entertainmenttechnology/Smith-MTEC4502-2026F/blob/main/assignments/01e_Future_Modeling_and_Adaptive_Planning.md) | Checked November 11, SHA `25e2d2625bb707210e0e392f6d6e735c76e7a74e` | Future modeling | 500-750 words, core plus independent research, recursive radars, rubrics and plan | 1e |
 | [Radar guide](https://github.com/entertainmenttechnology/Smith-MTEC4502-2026F/blob/main/resources/radar_chart_construction_and_competency_assessment.md) | Checked November 11, SHA `03ee521adbfb7199d087103309d523ba228960d6` | Assessment | 5-8 main axes, observable behavior, current and target levels, Not assessed for missing evidence | 1e |
 | [1f brief](https://github.com/entertainmenttechnology/Smith-MTEC4502-2026F/blob/main/assignments/01f_AI_Analysis_and_Reflection.md) | Checked in this conversation, SHA `587776e337e862e868192ad7516e25f15b6e1dfe` | Cumulative reflection | Process log and 400-600 words | 1f |
 | [Portfolio inventory](../portfolio-materials/INVENTORY.md) | Reviewed November 11 | Project evidence | Nine live case studies, Tesseract contribution, unpublished video and planned Rust work | 1e and portfolio |
-| [1e source notes](../assignments/01-career-strategy/01e-future-modeling-and-adaptive-planning/source-notes.md) | Accessed November 11 | Career research | WEF core, Anthropic research, GDC survey, role example. Zotero saving pending | 1e |
+| [1e source notes](../assignments/01-career-strategy/01e-future-modeling-and-adaptive-planning/source-notes.md) | Accessed November 11 | Career research | WEF core, Anthropic research, GDC survey, role example. Four annotated Zotero records saved | 1e |
 
-**Numbering correction:** The older uploaded archive labels reflection 1e and future modeling 1d. Current briefs use 1e v2 for future modeling and 1f for cumulative reflection. Current briefs take priority. Older paths are retained as pointers.
+**Numbering correction:** The older uploaded archive labels reflection 1e and future modeling 1d. Current briefs use 1e for future modeling and 1f for cumulative reflection. Current briefs take priority. Older paths are retained as pointers.

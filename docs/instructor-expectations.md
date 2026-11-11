@@ -17,7 +17,7 @@ These are requirements from course materials, not personal feedback received fro
 [Course source](https://github.com/entertainmenttechnology/Smith-MTEC4502-2026F)
 
 
-## Requirements applied to the 1e draft
+## Requirements applied to the 1e assignment
 
 - Define observable competencies, not general confidence or vague labels.
 - Include hard and soft skills and support the axes with career evidence.

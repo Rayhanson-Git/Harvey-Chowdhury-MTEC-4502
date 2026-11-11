@@ -1,169 +1,139 @@
-# Project evidence register
-
-Reviewed November 11, 2026. Source inspection, student reports, historical test records, and future plans are distinguished.
+# Project evidence
 
 ### E1 - Tesseract MCP contribution
 
-**State:** Merged contribution
+**Status:** Merged contribution
 
-**What it demonstrates:** Concurrent note creation and configurable agent identity
+Concurrent note creation and configurable agent identity. PR #21 by Rayhanson-Git merged November 4, 2026. Source and tests inspected. No new test run during the evidence inspection.
 
-**Evidence limits:** PR #21 by Rayhanson-Git merged November 4, 2026. Source and tests inspected. No new test run in this review.
+[Project](https://github.com/DeepExtrema/tesseract/pull/21) · [Repository](https://github.com/DeepExtrema/tesseract)
 
-[Project](https://github.com/DeepExtrema/tesseract/pull/21) · [Source](https://github.com/DeepExtrema/tesseract)
+**Skills:** AI integration, collaboration, debugging
 
-**Relevant skills:** AI integration, collaboration, debugging
+### E2 - Tesseract macOS/Linux contribution
 
-### E2 - Tesseract macOS/Linux proposal
+**Status:** Open contribution
 
-**State:** Contribution proposed
+Portability, scheduling, and workflow guidance. PR #10 itself is not marked merged. Similar upstream changes must not be attributed solely from this PR.
 
-**What it demonstrates:** Portability, scheduling, and workflow guidance
+[Project](https://github.com/DeepExtrema/tesseract/pull/10) · [Repository](https://github.com/Rayhanson-Git/tesseract-mcp-MacOS)
 
-**Evidence limits:** PR #10 itself is not marked merged. Similar upstream changes must not be attributed solely from this PR.
-
-[Project](https://github.com/DeepExtrema/tesseract/pull/10) · [Source](https://github.com/Rayhanson-Git/tesseract-mcp-MacOS)
-
-**Relevant skills:** Workflow, research, integration
+**Skills:** Workflow, research, integration
 
 ### E3 - JimBro
 
-**State:** Published
+**Status:** Published
 
-**What it demonstrates:** Integrated scheduling, workout logging, local storage, backups, and animated character
+Integrated scheduling, workout logging, local storage, backups, and animated character. Core source and live entry screen inspected. November 10 QA record reports 49 domain checks and deployed Chromium journeys. Those checks were not rerun during the evidence inspection.
 
-**Evidence limits:** Core source and live entry screen inspected. November 10 QA record reports 49 domain checks and deployed Chromium journeys. Those checks were not rerun in this review.
+[Project](https://rayhanson.tech/projects/jimbro/) · [Repository](https://github.com/Rayhanson-Git/Harvey-Chowdhury-MTEC3200/tree/release/jimbro-web)
 
-[Project](https://rayhanson.tech/projects/jimbro/) · [Source](https://github.com/Rayhanson-Git/Harvey-Chowdhury-MTEC3200/tree/release/jimbro-web)
-
-**Relevant skills:** Product development, delivery, documentation
+**Skills:** Product development, delivery, documentation
 
 ### E4 - GymLog
 
-**State:** Published prototype
+**Status:** Published prototype
 
-**What it demonstrates:** Post-set logging, editable values, confirmation, and correction paths
+Post-set logging, editable values, confirmation, and correction paths. Sample data lasts for the page session. Portfolio describes participant testing as a next validation step.
 
-**Evidence limits:** Sample data lasts for the page session. Portfolio describes participant testing as a next validation step.
+[Project](https://rayhanson.tech/projects/gymlog/) · [Repository](https://github.com/Rayhanson-Git/Rayhanson-Git.github.io/blob/main/projects/gymlog/prototype.html)
 
-[Project](https://rayhanson.tech/projects/gymlog/) · [Source](https://github.com/Rayhanson-Git/Rayhanson-Git.github.io/blob/main/projects/gymlog/prototype.html)
-
-**Relevant skills:** UX, prototyping, iteration
+**Skills:** UX, prototyping, iteration
 
 ### E5 - LeaveBy
 
-**State:** Published
+**Status:** Published
 
-**What it demonstrates:** Backward scheduling with input validation and date calculations
+Backward scheduling with input validation and date calculations. Source and live form inspected. Uses user estimates rather than live transit information.
 
-**Evidence limits:** Source and live form inspected. Uses user estimates rather than live transit information.
+[Project](https://rayhanson.tech/projects/leaveby/) · [Repository](https://github.com/Rayhanson-Git/Harvey-Chowdhury-MTEC3200)
 
-[Project](https://rayhanson.tech/projects/leaveby/) · [Source](https://github.com/Rayhanson-Git/Harvey-Chowdhury-MTEC3200)
-
-**Relevant skills:** Problem definition, application logic
+**Skills:** Problem definition, application logic
 
 ### E6 - Wasp Dodge+
 
-**State:** Published browser game
+**Status:** Published browser game
 
-**What it demonstrates:** Movement, collision detection, four lives, cooldown, scoring, and restart logic
+Movement, collision detection, four lives, cooldown, scoring, and restart logic. Source and live game menu inspected. Full playthrough and player testing were not performed during the evidence inspection.
 
-**Evidence limits:** Source and live game menu inspected. Full playthrough and player testing were not performed in this review.
+[Project](https://rayhanson.tech/projects/wasp-dodge/) · [Repository](https://github.com/Rayhanson-Git/MTEC1201_Harvey/tree/main/Assignments/Midterm_Final_HarveyC)
 
-[Project](https://rayhanson.tech/projects/wasp-dodge/) · [Source](https://github.com/Rayhanson-Git/MTEC1201_Harvey/tree/main/Assignments/Midterm_Final_HarveyC)
-
-**Relevant skills:** Game development, interaction
+**Skills:** Game development, interaction
 
 ### E7 - Gesture Particles
 
-**State:** Published
+**Status:** Published
 
-**What it demonstrates:** MediaPipe landmarks mapped to Three.js particle behavior
+MediaPipe landmarks mapped to Three.js particle behavior. Source and live interface inspected. Camera-based behavior was not tested during the evidence inspection. Integrates an existing model.
 
-**Evidence limits:** Source and live interface inspected. Camera-based behavior was not tested in this review. Integrates an existing model.
+[Project](https://rayhanson.tech/projects/gesture-particles/) · [Repository](https://github.com/Rayhanson-Git/Gesture-Particles)
 
-[Project](https://rayhanson.tech/projects/gesture-particles/) · [Source](https://github.com/Rayhanson-Git/Gesture-Particles)
-
-**Relevant skills:** Computer vision integration, creative coding
+**Skills:** Computer vision integration, creative coding
 
 ### E8 - Virtual Theremin
 
-**State:** Published
+**Status:** Published
 
-**What it demonstrates:** Hand tracking mapped to pitch, volume, bass, and drum triggers
+Hand tracking mapped to pitch, volume, bass, and drum triggers. MediaPipe and Tone.js integration inspected. Live start screen opened. Camera and audio performance were not tested.
 
-**Evidence limits:** MediaPipe and Tone.js integration inspected. Live start screen opened. Camera and audio performance were not tested.
+[Project](https://rayhanson.tech/projects/virtual-theremin/) · [Repository](https://github.com/Rayhanson-Git/Virtual-Theremin)
 
-[Project](https://rayhanson.tech/projects/virtual-theremin/) · [Source](https://github.com/Rayhanson-Git/Virtual-Theremin)
-
-**Relevant skills:** Interactive audio, integration
+**Skills:** Interactive audio, integration
 
 ### E9 - Neon Orbit Arcade
 
-**State:** Published
+**Status:** Published
 
-**What it demonstrates:** Particles, portals, forces, and Calm/Chaos modes
+Particles, portals, forces, and Calm/Chaos modes. Source and rendered live canvas inspected.
 
-**Evidence limits:** Source and rendered live canvas inspected.
+[Project](https://rayhanson.tech/projects/neon-orbit/) · [Repository](https://github.com/Rayhanson-Git/neon-orbit-final)
 
-[Project](https://rayhanson.tech/projects/neon-orbit/) · [Source](https://github.com/Rayhanson-Git/neon-orbit-final)
-
-**Relevant skills:** Simulation, creative coding
+**Skills:** Simulation, creative coding
 
 ### E10 - Orbit Playground
 
-**State:** Published
+**Status:** Published
 
-**What it demonstrates:** Orbiters, changing palettes, adjustable speed, and input response
+Orbiters, changing palettes, adjustable speed, and input response. Source and rendered live canvas inspected.
 
-**Evidence limits:** Source and rendered live canvas inspected.
+[Project](https://rayhanson.tech/projects/orbit-playground/) · [Repository](https://github.com/Rayhanson-Git/orbit_playground)
 
-[Project](https://rayhanson.tech/projects/orbit-playground/) · [Source](https://github.com/Rayhanson-Git/orbit_playground)
-
-**Relevant skills:** Generative visuals, interaction
+**Skills:** Generative visuals, interaction
 
 ### E11 - Studio Apartment Evening
 
-**State:** Published audio
+**Status:** Published audio
 
-**What it demonstrates:** Audio storytelling and multitrack editing in Adobe Audition
+Audio storytelling and multitrack editing in Adobe Audition. Published 186-second audio loaded and session screenshot inspected. The page credits 11 self-recorded sounds. No listening assessment was performed during the evidence inspection.
 
-**Evidence limits:** Published 186-second audio loaded and session screenshot inspected. The page credits 11 self-recorded sounds. No listening assessment was performed in this review.
+[Project](https://rayhanson.tech/projects/studio-apartment-evening/) · [Repository](https://github.com/Rayhanson-Git/Rayhanson-Git.github.io/tree/main/projects/studio-apartment-evening)
 
-[Project](https://rayhanson.tech/projects/studio-apartment-evening/) · [Source](https://github.com/Rayhanson-Git/Rayhanson-Git.github.io/tree/main/projects/studio-apartment-evening)
-
-**Relevant skills:** Creative production, storytelling
+**Skills:** Creative production, storytelling
 
 ### E12 - Portfolio website
 
-**State:** Published
+**Status:** Published
 
-**What it demonstrates:** Case studies, visual identity, responsive navigation, and project presentation
+Case studies, visual identity, responsive navigation, and project presentation. Nine case studies and core portfolio interaction code inspected.
 
-**Evidence limits:** Nine case studies and core portfolio interaction code inspected.
+[Project](https://rayhanson.tech/) · [Repository](https://github.com/Rayhanson-Git/Rayhanson-Git.github.io)
 
-[Project](https://rayhanson.tech/) · [Source](https://github.com/Rayhanson-Git/Rayhanson-Git.github.io)
-
-**Relevant skills:** Communication, visual design, delivery
+**Skills:** Communication, visual design, delivery
 
 ### E13 - Devil May Cry music video
 
-**State:** Completed, student-reported
+**Status:** Completed, student-reported
 
-**What it demonstrates:** Video editing and game-related storytelling
-
-**Evidence limits:** Not yet published on the portfolio. Media and editing timeline not inspected.
+Video editing and game-related storytelling. Not yet published on the portfolio. Media and editing timeline not inspected.
 
 
-**Relevant skills:** Potential creative-production evidence
+**Skills:** Potential creative-production evidence
 
 ### E14 - Rust retrieval system
 
-**State:** Planned
+**Status:** Planned
 
-**What it demonstrates:** Time-aware memory, conflict resolution, and retrieval evaluation
-
-**Evidence limits:** No working Rust implementation established in this conversation.
+Time-aware memory, conflict resolution, and retrieval evaluation. No working Rust implementation established in this conversation.
 
 
-**Relevant skills:** Growth project, not current competency evidence
+**Skills:** Growth project, not current competency evidence

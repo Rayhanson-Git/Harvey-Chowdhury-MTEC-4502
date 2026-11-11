@@ -47,6 +47,4 @@ The portfolio rebuild is the current project. U.S. job relevance, actual duties,
 
 ## Assignment 1e research
 
-[Annotated source notes](../assignments/01-career-strategy/01e-future-modeling-and-adaptive-planning/source-notes.md) · [RIS import aid](../assignments/01-career-strategy/01e-future-modeling-and-adaptive-planning/research-import.ris)
-
-Four source records are prepared. WEF is the core reading. The Anthropic coding study, GDC survey summary, and applied-AI role example are the three selected additional sources. They were read during this work but are not yet verified in the shared Zotero library. The web session is signed out and reports a security-check error. Historical 1b Zotero records above are preserved. No new Zotero item keys are invented.
+[Four annotated sources and verified Zotero records](../assignments/01-career-strategy/01e-future-modeling-and-adaptive-planning/source-notes.md). All four are saved in the shared course collection.
