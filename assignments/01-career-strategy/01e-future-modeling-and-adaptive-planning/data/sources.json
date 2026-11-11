@@ -46,5 +46,29 @@
     "zotero_item_key": "4P6XSUXS",
     "zotero_url": "https://www.zotero.org/groups/6416274/mtec/collections/XT52TX5I/items/4P6XSUXS/collection",
     "zotero_saved": "2026-11-11"
+  },
+  {
+    "id": "S5",
+    "title": "Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights",
+    "author": "Rikiya Takehi, Jayden Teoh, Alex Zhang, and Omar Khattab",
+    "date": "2026-11-02",
+    "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+    "kind": "Research blog post",
+    "annotation": "MIT CSAIL researchers report early experiments in which a language model directly reads, writes, or edits another neural network's weights. I am studying this work as a possible direction for AI engineering, while treating its experimental results as an invitation to investigate rather than proof of general reliability.",
+    "zotero_item_key": "QQCUXHW8",
+    "zotero_url": "https://www.zotero.org/groups/6416274/mtec/collections/XT52TX5I/items/QQCUXHW8/collection",
+    "zotero_saved": "2026-11-11"
+  },
+  {
+    "id": "S6",
+    "title": "Replicating Weight-Space Programming: Writing and Reading Neural Network Weights with Frontier LLMs",
+    "author": "Roksana Goworek, Alexander Hickey, Federico Nanni, and Martin O'Reilly",
+    "date": "2026",
+    "url": "https://www.turing.ac.uk/news/publications/replicating-weight-space-programming-writing-and-reading-neural-network-weights",
+    "kind": "Working paper and institutional summary",
+    "annotation": "The Alan Turing Institute reproduces some weight-reading and weight-writing results while identifying limits in generalization and interpretation. I use this comparison to frame my interest around reproducible experiments and evaluation rather than assume that the original demonstrations establish broad model understanding.",
+    "zotero_item_key": "KCGCKWXX",
+    "zotero_url": "https://www.zotero.org/groups/6416274/mtec/collections/XT52TX5I/items/KCGCKWXX/collection",
+    "zotero_saved": "2026-11-11"
   }
 ]

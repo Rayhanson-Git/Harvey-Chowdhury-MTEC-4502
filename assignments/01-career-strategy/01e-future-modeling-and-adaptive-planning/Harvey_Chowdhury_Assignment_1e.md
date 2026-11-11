@@ -526,3 +526,25 @@ Time-aware memory, conflict resolution, and retrieval evaluation. No working Rus
 
 
 **Skills:** Growth project, not current competency evidence
+
+## 8. Further research: weight-space programming
+
+I am beginning to study weight-space programming because I want to understand how AI engineering could develop beyond connecting existing models and tools. MIT CSAIL researchers report early experiments in which a language model reads, writes, or edits another neural network's parameters directly [S5]. If this approach becomes reliable, it could create opportunities involving model inspection, targeted modification, and evaluation.
+
+The Alan Turing Institute reproduces some results but finds important limits in generalization and interpretation [S6]. That makes the work relevant to my learning plan. I want to strengthen my understanding of neural-network architecture and weight matrices, then attempt a small reproducible experiment comparing behavior before and after an edit. This is a research interest and future learning goal, not an implementation I have completed.
+
+### S5 - Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights
+
+Rikiya Takehi, Jayden Teoh, Alex Zhang, and Omar Khattab. 2026-11-02. Research blog post. Accessed November 11, 2026.
+
+[Source](https://rikiyat.github.io/blog/weight-space-programming/) · [Zotero record](https://www.zotero.org/groups/6416274/mtec/collections/XT52TX5I/items/QQCUXHW8/collection)
+
+MIT CSAIL researchers report early experiments in which a language model directly reads, writes, or edits another neural network's weights. I am studying this work as a possible direction for AI engineering, while treating its experimental results as an invitation to investigate rather than proof of general reliability.
+
+### S6 - Replicating Weight-Space Programming: Writing and Reading Neural Network Weights with Frontier LLMs
+
+Roksana Goworek, Alexander Hickey, Federico Nanni, and Martin O'Reilly. 2026. Working paper and institutional summary. Accessed November 11, 2026.
+
+[Source](https://www.turing.ac.uk/news/publications/replicating-weight-space-programming-writing-and-reading-neural-network-weights) · [Zotero record](https://www.zotero.org/groups/6416274/mtec/collections/XT52TX5I/items/KCGCKWXX/collection)
+
+The Alan Turing Institute reproduces some weight-reading and weight-writing results while identifying limits in generalization and interpretation. I use this comparison to frame my interest around reproducible experiments and evaluation rather than assume that the original demonstrations establish broad model understanding.

@@ -2,7 +2,7 @@
   "checked": "2026-11-11",
   "classification": "Ready to submit",
   "synthesis_words": 593,
-  "pdf_pages": 18,
+  "pdf_pages": 19,
   "main_axes": 8,
   "sub_radars": 2,
   "scored_axes": 18,
@@ -11,5 +11,13 @@
   "zotero_save": "Four records saved with verified annotations and source links",
   "programming": 2,
   "debugging": 3,
-  "pdf_sha256": "f08612b0185594d21caf6b1833180b33555f698597f68669b63abf160986080e"
+  "pdf_sha256": "3f35661348358aae8c66e61636801faf02c051cbcec9bc7dcaa455f6b2a06ff6",
+  "supplemental_research_sources": 2,
+  "original_pages_preserved": 18,
+  "total_annotated_sources": 6,
+  "supplemental_zotero_save": "S5 and S6 saved and verified after reload",
+  "supplemental_zotero_item_keys": [
+    "QQCUXHW8",
+    "KCGCKWXX"
+  ]
 }

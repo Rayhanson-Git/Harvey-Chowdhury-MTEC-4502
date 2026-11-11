@@ -20,3 +20,7 @@
 [Assignment instructions](https://github.com/entertainmenttechnology/Smith-MTEC4502-2026F/blob/main/assignments/01e_Future_Modeling_and_Adaptive_Planning.md) · [Radar guide](https://github.com/entertainmenttechnology/Smith-MTEC4502-2026F/blob/main/resources/radar_chart_construction_and_competency_assessment.md)
 
 [Career strategy](../README.md) · [Dashboard](../../../docs/dashboard.md)
+
+## Further research
+
+An additional page covers weight-space programming and its replication study. Both annotated sources are saved in Zotero. The original 18 pages are preserved.

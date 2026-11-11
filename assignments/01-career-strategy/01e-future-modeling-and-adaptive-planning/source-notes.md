@@ -33,3 +33,21 @@ Anthropic. n.d.. New role-specific source. Accessed November 11, 2026.
 [Source](https://job-boards.greenhouse.io/anthropic/jobs/5455961008) · [Zotero record](https://www.zotero.org/groups/6416274/mtec/collections/XT52TX5I/items/4P6XSUXS/collection)
 
 This employer listing combines LLM applications, retrieval, integrations, reliable prototypes, and technical communication. I use its duties as one concrete role comparison rather than an entry-level promise or a universal definition of AI engineering.
+
+## Further research: weight-space programming
+
+### S5 - Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights
+
+Rikiya Takehi, Jayden Teoh, Alex Zhang, and Omar Khattab. 2026-11-02. Research blog post. Accessed November 11, 2026.
+
+[Source](https://rikiyat.github.io/blog/weight-space-programming/) · [Zotero record](https://www.zotero.org/groups/6416274/mtec/collections/XT52TX5I/items/QQCUXHW8/collection)
+
+MIT CSAIL researchers report early experiments in which a language model directly reads, writes, or edits another neural network's weights. I am studying this work as a possible direction for AI engineering, while treating its experimental results as an invitation to investigate rather than proof of general reliability.
+
+### S6 - Replicating Weight-Space Programming: Writing and Reading Neural Network Weights with Frontier LLMs
+
+Roksana Goworek, Alexander Hickey, Federico Nanni, and Martin O'Reilly. 2026. Working paper and institutional summary. Accessed November 11, 2026.
+
+[Source](https://www.turing.ac.uk/news/publications/replicating-weight-space-programming-writing-and-reading-neural-network-weights) · [Zotero record](https://www.zotero.org/groups/6416274/mtec/collections/XT52TX5I/items/KCGCKWXX/collection)
+
+The Alan Turing Institute reproduces some weight-reading and weight-writing results while identifying limits in generalization and interpretation. I use this comparison to frame my interest around reproducible experiments and evaluation rather than assume that the original demonstrations establish broad model understanding.

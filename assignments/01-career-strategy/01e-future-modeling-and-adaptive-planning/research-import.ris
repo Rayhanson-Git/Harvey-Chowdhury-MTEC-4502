@@ -37,3 +37,25 @@ Y2  - 2026/11/11
 N1  - This employer listing combines LLM applications, retrieval, integrations, reliable prototypes, and technical communication. I use its duties as one concrete role comparison rather than an entry-level promise or a universal definition of AI engineering.
 KW  - MTEC4502 Assignment 1e
 ER  -
+
+TY  - ELEC
+TI  - Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights
+AU  - Rikiya Takehi
+AU  - Jayden Teoh
+AU  - Alex Zhang
+AU  - Omar Khattab
+PY  - 2026
+UR  - https://rikiyat.github.io/blog/weight-space-programming/
+AB  - MIT CSAIL researchers report early experiments in which a language model directly reads, writes, or edits another neural network's weights. I am studying this work as a possible direction for AI engineering, while treating its experimental results as an invitation to investigate rather than proof of general reliability.
+ER  -
+
+TY  - ELEC
+TI  - Replicating Weight-Space Programming: Writing and Reading Neural Network Weights with Frontier LLMs
+AU  - Roksana Goworek
+AU  - Alexander Hickey
+AU  - Federico Nanni
+AU  - Martin O'Reilly
+PY  - 2026
+UR  - https://www.turing.ac.uk/news/publications/replicating-weight-space-programming-writing-and-reading-neural-network-weights
+AB  - The Alan Turing Institute reproduces some weight-reading and weight-writing results while identifying limits in generalization and interpretation. I use this comparison to frame my interest around reproducible experiments and evaluation rather than assume that the original demonstrations establish broad model understanding.
+ER  -
