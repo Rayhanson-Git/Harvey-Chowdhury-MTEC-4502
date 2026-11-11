@@ -1,0 +1,17 @@
+{
+  "checked": "2026-11-11",
+  "classification": "Ready for student review, not ready for submission",
+  "synthesis_words": 599,
+  "pdf_pages": 18,
+  "main_axes": 8,
+  "sub_radars": 2,
+  "rubric_count": 18,
+  "unassessed_axes": 3,
+  "annotated_sources": 4,
+  "zotero_save": "pending authentication",
+  "relative_links": "passed",
+  "semicolon_scan": "passed for changed prose, SVG, data, RIS and extracted PDF text",
+  "previous_submissions": "unchanged",
+  "visual_review": "all final PDF pages inspected in contact sheet, chart and rubric pages also inspected at larger size",
+  "pdf_sha256": "1f62f822589b424f1304c5d32014c12ec7904999f2e7a22be2edd2112acb296c"
+}

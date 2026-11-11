@@ -1,10 +1,10 @@
 # Assignments
 
-The first five folder names follow the instructor’s Student Work Template exactly. Folder numbers are organizational labels and do not consistently match assignment numbers; use the mapping below.
+The first five folder names follow the instructor’s Student Work Template exactly. Folder numbers are organizational labels and do not consistently match assignment numbers. use the mapping below.
 
 | Folder | Assignment mapping |
 | :--- | :--- |
-| [Career strategy](01-career-strategy/README.md) | Separate section folders for Assignments 1a–1e and the combined framework package. |
+| [Career strategy](01-career-strategy/README.md) | Separate section folders for Assignments 1a-1f and the combined framework package. |
 | [Career visualization](02-career-visualization/README.md) | Template folder with a link to the dedicated Part 1c workspace. |
 | [Portfolio platforms](03-portfolio-platforms/README.md) | Assignment 03 platform evaluation and selection notes. |
 | [Portfolio development](04-ai-portfolio/README.md) | Assignment 06 portfolio development, presentation experiments, and pitch materials. This folder name is retained from the instructor template. |
@@ -19,7 +19,11 @@ Assignment 00 documentation is in the [setup checklist](../docs/setup-checklist.
 | :--- | :--- | :--- |
 | 1a · Reflective essay | [Assignment 1a folder](01-career-strategy/01a-reflective-essay-draft/README.md) | Submitted to Brightspace |
 | 1b · Strategic framework and gap analysis | [Final PDF, Markdown, and Word](01-career-strategy/01b-strategic-framework-and-job-market-gap-analysis/README.md) | Submitted to Brightspace |
-| 1c · Career visualization | [Submission PDF, editable files, visuals, and evidence](01-career-strategy/01c-integrating-visualization/README.md) | Ready to submit |
+| 1c · Career visualization | [Submission PDF, editable files, visuals, and evidence](01-career-strategy/01c-integrating-visualization/README.md) | Submitted to Brightspace, confirmed by Harvey |
+
+| 1d - Career futures | [Submitted files](01-career-strategy/01d-ai-collaboration-and-career-futures/README.md) | Submitted to Brightspace, confirmed by Harvey |
+| 1e v2 - Future modeling | [Review package](01-career-strategy/01e-future-modeling-and-adaptive-planning/README.md) | Draft complete, score review and Zotero pending |
+| 1f - Cumulative reflection | [Workspace](01-career-strategy/01f-ai-collaboration-analysis-and-critical-reflection/README.md) | Not started |
 
 See the [dashboard](../docs/dashboard.md) for next actions and the submission record.
 
@@ -44,4 +48,3 @@ See the [dashboard](../docs/dashboard.md) for next actions and the submission re
 ## Local workflow
 
 After each assignment session, save drafts and revisions in the mapped folder, commit and push authorized changes, update the dashboard based on verified progress, and share a change summary with review links. Record a submission URL separately after formal submission.
-

@@ -1,12 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
-<title id="title">Harvey Chowdhury — MTEC 4502</title><desc id="desc">Career and Portfolio Seminar, Fall 2026. Creative development, interactive media, visual storytelling.</desc>
-<rect width="1200" height="300" rx="16" fill="#101116"/>
-<path d="M920 0H1200V300H780Z" fill="#19131a"/>
-<path d="M1020 0L880 300M1090 0L950 300M1160 0L1020 300" stroke="#4c1b29" stroke-width="1"/>
-<rect x="48" y="45" width="5" height="207" rx="2" fill="#e33555"/>
-<text x="78" y="76" font-family="Arial,sans-serif" font-size="15" letter-spacing="4" fill="#f1788e">CHOWDHURY / COURSE WORKSPACE</text>
-<text x="75" y="145" font-family="Arial,sans-serif" font-size="53" font-weight="700" fill="#f8f8fb">Harvey Chowdhury</text>
-<text x="78" y="187" font-family="Arial,sans-serif" font-size="22" fill="#c5c5d1">Career &amp; Portfolio Seminar</text>
-<text x="78" y="239" font-family="Arial,sans-serif" font-size="14" letter-spacing="2" fill="#a9a9b9">MTEC 4502 · CITY TECH · FALL 2026</text>
-<text x="981" y="165" font-family="Arial,sans-serif" font-size="62" font-weight="700" fill="#e33555">HC</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-labelledby="title desc">
+<title id="title">Harvey Chowdhury - Career and Portfolio Seminar</title>
+<desc id="desc">Applied AI engineering, creative systems, and interactive experiences. MTEC 4502, City Tech, Fall 2026.</desc>
+<rect width="1280" height="340" rx="22" fill="#080b0d"/>
+<path d="M870 0H1280V340H730Z" fill="#0f2526"/>
+<circle cx="1090" cy="165" r="112" fill="none" stroke="#2e6f73" stroke-width="1"/>
+<circle cx="1090" cy="165" r="75" fill="none" stroke="#496967" stroke-width="1"/>
+<path d="M920 165H1260M1090 18V312M1009 83L1171 247M1009 247L1171 83" stroke="#2e6f73" stroke-width="1"/>
+<path d="M1090 64L1164 123L1135 225L1026 224L1003 117Z" fill="#2e6f73" fill-opacity="0.28" stroke="#7fb3b8" stroke-width="2"/>
+<circle cx="1090" cy="64" r="5" fill="#c6601f"/>
+<rect x="52" y="51" width="4" height="234" rx="2" fill="#c6601f"/>
+<text x="80" y="78" font-family="Arial,sans-serif" font-size="14" letter-spacing="3" fill="#7fb3b8">CAREER / CRAFT / CONTINUOUS LEARNING</text>
+<text x="77" y="145" font-family="Arial,sans-serif" font-size="54" font-weight="700" fill="#eadcc8">Harvey Chowdhury</text>
+<text x="80" y="195" font-family="Arial,sans-serif" font-size="23" fill="#c5d4d2">Applied AI engineering. Creative systems.</text>
+<text x="80" y="229" font-family="Arial,sans-serif" font-size="20" fill="#b4c5c4">Career and Portfolio Seminar</text>
+<text x="80" y="281" font-family="Arial,sans-serif" font-size="13" letter-spacing="2" fill="#7fb3b8">MTEC 4502 / CITY TECH / FALL 2026</text>
 </svg>

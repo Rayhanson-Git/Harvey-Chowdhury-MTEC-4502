@@ -4,16 +4,16 @@ Keep research notes linked to the corresponding Zotero item. Save external resea
 
 | Source | Zotero item link | Assignment | Useful idea | Citation checked |
 | :--- | :--- | :--- | :--- | :--- |
-| [Kyndryl · Associate Creative Technologist](https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/Dallas-USDALFRI-Frisco-AI-HUB/Early-Career-Consult-Program---Associate-Creative-Technologist_R-66763) | [L6497K6M](https://www.zotero.org/groups/6416274/items/L6497K6M) | 1b · Reference 1 | Entry-level prototyping and integration; five days weekly in Frisco; no visa sponsorship | Yes · October 7, 2026 |
-| [Amazon · Design Technologist II, Prime Video](https://www.amazon.jobs/en/jobs/10507619/design-technologist-ii-prime-video) | [A78V4Y46](https://www.zotero.org/groups/6416274/items/A78V4Y46) | 1b · Reference 2 | Experienced-career comparison based on Level II and 2+ years; portfolio and coding samples required | Yes · October 7, 2026 |
-| [NEXT/NOW · Creative Technologist AI](https://nextnowagency.com/careers/creative-technologist-ai) | [Y5J58NT5](https://www.zotero.org/groups/6416274/items/Y5J58NT5) | 1b · Reference 3 | Interactive environments and generative pipelines; career level and years unstated | Yes · October 7, 2026 |
-| [Kyndryl · Senior Lead Creative Technologist](https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/Dallas-TX-USA/Senior-Lead-Creative-Technologist_R-64636) | [8WANR6DV](https://www.zotero.org/groups/6416274/items/8WANR6DV) | 1b · Reference 4 | Senior leadership, evaluation and responsible AI; 8+ years preferred | Yes · October 7, 2026 |
+| [Kyndryl · Associate Creative Technologist](https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/Dallas-USDALFRI-Frisco-AI-HUB/Early-Career-Consult-Program---Associate-Creative-Technologist_R-66763) | [L6497K6M](https://www.zotero.org/groups/6416274/items/L6497K6M) | 1b · Reference 1 | Entry-level prototyping and integration. five days weekly in Frisco. no visa sponsorship | Yes · October 7, 2026 |
+| [Amazon · Design Technologist II, Prime Video](https://www.amazon.jobs/en/jobs/10507619/design-technologist-ii-prime-video) | [A78V4Y46](https://www.zotero.org/groups/6416274/items/A78V4Y46) | 1b · Reference 2 | Experienced-career comparison based on Level II and 2+ years. portfolio and coding samples required | Yes · October 7, 2026 |
+| [NEXT/NOW · Creative Technologist AI](https://nextnowagency.com/careers/creative-technologist-ai) | [Y5J58NT5](https://www.zotero.org/groups/6416274/items/Y5J58NT5) | 1b · Reference 3 | Interactive environments and generative pipelines. career level and years unstated | Yes · October 7, 2026 |
+| [Kyndryl · Senior Lead Creative Technologist](https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/Dallas-TX-USA/Senior-Lead-Creative-Technologist_R-64636) | [8WANR6DV](https://www.zotero.org/groups/6416274/items/8WANR6DV) | 1b · Reference 4 | Senior leadership, evaluation and responsible AI. 8+ years preferred | Yes · October 7, 2026 |
 
 ## Assignment 1b research record
 
-All four records were verified in the MTEC4502 shared Zotero group (6416274), in the Harvey Chowdhury collection (XT52TX5I). Zotero links require access to the course group. The saved records include employer posting text and access dates; the submission cites the original employer URLs.
+All four records were verified in the MTEC4502 shared Zotero group (6416274), in the Harvey Chowdhury collection (XT52TX5I). Zotero links require access to the course group. The saved records include employer posting text and access dates. the submission cites the original employer URLs.
 
-Required and preferred criteria are distinguished in the comparison. Amazon is an experienced-career comparison; its employer does not explicitly label it mid-career. NEXT/NOW does not specify seniority. These four sources are a limited sample of U.S. roles, not a comprehensive market survey or confirmation of employment eligibility.
+Required and preferred criteria are distinguished in the comparison. Amazon is an experienced-career comparison. its employer does not explicitly label it mid-career. NEXT/NOW does not specify seniority. These four sources are a limited sample of U.S. roles, not a comprehensive market survey or confirmation of employment eligibility.
 
 [Final Assignment 1b document and references](../assignments/01-career-strategy/01b-strategic-framework-and-job-market-gap-analysis/README.md)
 
@@ -34,7 +34,7 @@ Install Zotero Desktop and Connector, open a personal library, and save one test
 
 ## Assignment 1c research and visualization evidence
 
-Checked October 7, 2026. The shared Job sites collection contains 22 top-level site records. The review accounts for each record, including the Akima entry without a URL and saved results that could not be retrieved. The four Assignment 1b employer advertisements remain in the Harvey Chowdhury subcollection and support the target interpretation; the senior Kyndryl listing is longer-term context.
+Checked October 7, 2026. The shared Job sites collection contains 22 top-level site records. The review accounts for each record, including the Akima entry without a URL and saved results that could not be retrieved. The four Assignment 1b employer advertisements remain in the Harvey Chowdhury subcollection and support the target interpretation. the senior Kyndryl listing is longer-term context.
 
 - [Complete analysis and figures](../assignments/01-career-strategy/01c-integrating-visualization/README.md)
 - [22 site reviews with URLs and Zotero keys](../assignments/01-career-strategy/01c-integrating-visualization/data/job-sites-review.json)
@@ -43,3 +43,10 @@ Checked October 7, 2026. The shared Job sites collection contains 22 top-level s
 - Platform sources: [Canva charts](https://www.canva.com/graphs/), [Canva pricing](https://www.canva.com/pricing/), [Miro pricing](https://miro.com/pricing/), and [draw.io](https://www.drawio.com/).
 
 The portfolio rebuild is the current project. U.S. job relevance, actual duties, experience level, and each opening's work-authorization conditions determine whether a discovered opportunity is useful. Saved search results and historical announcements are identified separately from verified employer evidence.
+
+
+## Assignment 1e research
+
+[Annotated source notes](../assignments/01-career-strategy/01e-future-modeling-and-adaptive-planning/source-notes.md) · [RIS import aid](../assignments/01-career-strategy/01e-future-modeling-and-adaptive-planning/research-import.ris)
+
+Four source records are prepared. WEF is the core reading. The Anthropic coding study, GDC survey summary, and applied-AI role example are the three selected additional sources. They were read during this work but are not yet verified in the shared Zotero library. The web session is signed out and reports a security-check error. Historical 1b Zotero records above are preserved. No new Zotero item keys are invented.

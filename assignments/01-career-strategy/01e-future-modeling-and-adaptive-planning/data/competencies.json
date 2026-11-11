@@ -1,0 +1,332 @@
+{
+  "review_date": "2026-11-11",
+  "status": "provisional_for_student_review",
+  "target_date": "2028-05",
+  "method": "These are provisional assessments for review, not employer scores or grades. They describe the evidence available on November 11, 2026. Tools and collaborators are permitted within a competency when their contribution is explained. Project code alone does not establish individual programming depth. Not assessed means evidence is insufficient, not that ability is zero. Targets are proposed development goals by May 2028 and are not employer requirements. A parent score is a holistic judgment, not the arithmetic mean of its sub-radar. The lower evaluation score reflects informal testing evidence rather than the sophistication of the software.",
+  "competencies": [
+    {
+      "id": "M1",
+      "group": "Main",
+      "name": "AI integration",
+      "definition": "Connect existing models, memory, and tools into a usable application.",
+      "current": 3,
+      "target": 4,
+      "evidence": "E1, E7, E8 and student setup report",
+      "action": "Document one complete integration with repeatable setup and failure tests.",
+      "levels": [
+        "Cannot yet connect a model or tool in a guided exercise.",
+        "Connects one component with guidance but cannot trace the full flow.",
+        "Demonstrates a bounded integration and explains its input and output.",
+        "Reproduces integrations consistently and handles dependency failures.",
+        "Leads reusable integration architecture and validates adoption by others."
+      ],
+      "rationale": "A merged multi-agent contribution and creative model integrations support basic integration. Wider reliability remains unverified."
+    },
+    {
+      "id": "M2",
+      "group": "Main",
+      "name": "Programming and debugging",
+      "definition": "Trace behavior, isolate a defect, and justify a code change.",
+      "current": null,
+      "target": 4,
+      "evidence": "E1, E3, E6 and student code-review account",
+      "action": "Walk through one defect and fix with a reproducible test and explanation.",
+      "levels": [
+        "Cannot yet trace a simple program or locate an identified defect.",
+        "Makes guided edits and recognizes basic error messages.",
+        "Explains a module and fixes a bounded defect with a passing test.",
+        "Diagnoses unfamiliar defects and checks regressions across modules.",
+        "Leads difficult debugging and teaches the reasoning to collaborators."
+      ],
+      "rationale": "Repository code exists and code inspection is reported. A direct walkthrough is still needed to assess individual programming depth."
+    },
+    {
+      "id": "M3",
+      "group": "Main",
+      "name": "Interactive prototyping",
+      "definition": "Build a task or play loop with clear input, state, and feedback.",
+      "current": 3,
+      "target": 4,
+      "evidence": "E3, E4, E6, E9, E10",
+      "action": "Observe another person completing a task and revise one confusing interaction.",
+      "levels": [
+        "Cannot yet assemble an interactive sequence.",
+        "Creates isolated controls with incomplete state transitions.",
+        "Produces a working bounded flow with understandable feedback.",
+        "Refines complete flows through observed use and edge-case testing.",
+        "Leads reusable interaction patterns validated across users and projects."
+      ],
+      "rationale": "Several working project structures support basic competence. Recent human validation is not established by this inspection."
+    },
+    {
+      "id": "M4",
+      "group": "Main",
+      "name": "Creative production",
+      "definition": "Shape visual or audio material to communicate an intended experience.",
+      "current": 3,
+      "target": 4,
+      "evidence": "E9, E10, E11, E12",
+      "action": "Publish a before-and-after edit with rationale and audience feedback.",
+      "levels": [
+        "Cannot yet prepare a usable visual or audio asset.",
+        "Produces simple assets with inconsistent technical or narrative control.",
+        "Creates a coherent bounded piece and documents production decisions.",
+        "Iterates consistent media quality against audience and delivery needs.",
+        "Directs a cohesive production and mentors others through its pipeline."
+      ],
+      "rationale": "Published visuals and a documented audio story support a bounded production claim. The music video remains uninspected."
+    },
+    {
+      "id": "M5",
+      "group": "Main",
+      "name": "Testing and evaluation",
+      "definition": "Define success, challenge failures, and compare observed outcomes.",
+      "current": 2,
+      "target": 4,
+      "evidence": "Student Tesseract stress tests, E1 and E3 test artifacts",
+      "action": "Convert exploratory checks into a repeatable test set with expected outcomes.",
+      "levels": [
+        "Cannot yet identify a checkable success or failure condition.",
+        "Explores failures and records observations informally.",
+        "Runs repeatable cases with expected results and records fixes.",
+        "Combines regression, retrieval, and usability evidence across releases.",
+        "Designs evaluation strategy and independently audits coverage and limits."
+      ],
+      "rationale": "Exploratory stress testing is described. Existing automated test artifacts do not establish which evaluations the student personally ran."
+    },
+    {
+      "id": "M6",
+      "group": "Main",
+      "name": "Research and adaptation",
+      "definition": "Compare evidence and use it to justify a technical or career decision.",
+      "current": 3,
+      "target": 4,
+      "evidence": "Prior 1b job analysis, 1d decisions and Tesseract investigation",
+      "action": "Compare two retrieval approaches with citations, tradeoffs, and a small experiment.",
+      "levels": [
+        "Cannot yet locate or identify a relevant source.",
+        "Collects sources but accepts claims without checking fit.",
+        "Uses relevant sources and explains a decision with stated limitations.",
+        "Triangulates conflicting sources and tests uncertain technical claims.",
+        "Builds reusable research methods and helps others evaluate evidence."
+      ],
+      "rationale": "Prior career analysis and the reported investigation show evidence-led iteration. Current source selection still needs final student review."
+    },
+    {
+      "id": "M7",
+      "group": "Main",
+      "name": "Collaboration and communication",
+      "definition": "Explain contributions, coordinate changes, and respond to feedback.",
+      "current": 3,
+      "target": 4,
+      "evidence": "E1, E2, E3 reflection and E12",
+      "action": "Add a concise contribution case study linking request, review, change, and outcome.",
+      "levels": [
+        "Cannot yet explain role or communicate a proposed change.",
+        "Shares progress but contribution boundaries remain unclear.",
+        "Explains a bounded contribution and responds to review or feedback.",
+        "Coordinates multi-person changes with clear handoffs and documented outcomes.",
+        "Leads collaboration and develops practices adopted by others."
+      ],
+      "rationale": "The merged pull request and clarified contributor role support a bounded collaboration claim, not team leadership."
+    },
+    {
+      "id": "M8",
+      "group": "Main",
+      "name": "Workflow and delivery",
+      "definition": "Package, publish, document, and maintain usable project versions.",
+      "current": 4,
+      "target": 4,
+      "evidence": "E3, E5-E12 and repository release records",
+      "action": "Test one clean installation or recovery with another user.",
+      "levels": [
+        "Cannot yet produce a runnable or shareable project version.",
+        "Shares a project that depends on undocumented setup.",
+        "Publishes a usable version with setup and limitation notes.",
+        "Repeatedly delivers projects with organized source and release evidence.",
+        "Leads a reproducible delivery process that others can maintain independently."
+      ],
+      "rationale": "Multiple live projects and dated release records support a provisional four. Maintenance by other users has not been demonstrated."
+    },
+    {
+      "id": "A1",
+      "group": "AI integration",
+      "name": "Model and tool configuration",
+      "definition": "Configure a model or service and explain its operational inputs.",
+      "current": 3,
+      "target": 4,
+      "evidence": "E7, E8 and student Tesseract setup",
+      "action": "Reproduce configuration from a clean documented setup.",
+      "levels": [
+        "Cannot yet configure a guided model call.",
+        "Runs a sample configuration without explaining its options.",
+        "Configures a bounded service and explains key options and outputs.",
+        "Reproduces configuration and manages version or dependency changes.",
+        "Creates reusable configuration standards validated by other users."
+      ],
+      "rationale": "Creative projects integrate existing vision models. This is application evidence, not evidence of model training."
+    },
+    {
+      "id": "A2",
+      "group": "AI integration",
+      "name": "Memory workflows",
+      "definition": "Describe and implement when agents read, write, and maintain memory.",
+      "current": 3,
+      "target": 4,
+      "evidence": "E1 and student report of daily maintenance and live writes",
+      "action": "Record a repeatable write-to-recall journey and recovery case.",
+      "levels": [
+        "Cannot yet trace where a memory record is stored.",
+        "Reads or writes a sample note with guidance.",
+        "Demonstrates a bounded write, retrieval, and maintenance flow.",
+        "Checks persistence and recovery across repeated sessions.",
+        "Designs audited memory lifecycles used reliably by other teams."
+      ],
+      "rationale": "The student reports a working personal setup. No independent daily-scheduler run was observed in this review."
+    },
+    {
+      "id": "A3",
+      "group": "AI integration",
+      "name": "Agent identity and shared writes",
+      "definition": "Preserve contributor identity and prevent conflicting note creation.",
+      "current": 3,
+      "target": 4,
+      "evidence": "E1 and its multi-agent test file",
+      "action": "Reproduce concurrent writes and inspect identity metadata.",
+      "levels": [
+        "Cannot yet distinguish contributors or detect a collision.",
+        "Labels agents manually without checking concurrent writes.",
+        "Implements a bounded identity or collision fix with test evidence.",
+        "Reproduces concurrent behavior across supported platforms and failure paths.",
+        "Designs shared-write contracts and validates independent multi-agent deployments."
+      ],
+      "rationale": "Merged PR #21 specifically addresses identity and create collisions. Tests were inspected, not rerun here."
+    },
+    {
+      "id": "A4",
+      "group": "AI integration",
+      "name": "Retrieval relevance and freshness",
+      "definition": "Select relevant current evidence while retaining historical context.",
+      "current": 2,
+      "target": 4,
+      "evidence": "Student report of stale or less relevant recall",
+      "action": "Build dated and contradictory memory cases with expected answers.",
+      "levels": [
+        "Cannot yet explain whether a retrieved item answers a question.",
+        "Recognizes irrelevant or stale recall but lacks a measured correction.",
+        "Evaluates a repeatable query set and implements one verified improvement.",
+        "Handles current, historical, and conflicting evidence with measured results.",
+        "Leads temporal retrieval evaluation with independently reviewed benchmarks."
+      ],
+      "rationale": "The problem was observed and explained. No specific Tesseract retrieval correction was implemented."
+    },
+    {
+      "id": "A5",
+      "group": "AI integration",
+      "name": "Autonomous operation",
+      "definition": "Schedule background work with clear behavior and visible failures.",
+      "current": 3,
+      "target": 4,
+      "evidence": "Student report of daily maintenance and fewer interruptions",
+      "action": "Record scheduled runs, exceptions, and a failure-recovery example.",
+      "levels": [
+        "Cannot yet run a background task reliably in a guided setup.",
+        "Runs a manual task but repeated execution needs intervention.",
+        "Demonstrates scheduled operation and explains its intended behavior.",
+        "Records repeated runs and recovers from a realistic interruption.",
+        "Designs unattended operation validated across independently maintained installations."
+      ],
+      "rationale": "The personal setup is reported working. One-time setup for a wider user population is an untested usability hypothesis."
+    },
+    {
+      "id": "T1",
+      "group": "Testing and evaluation",
+      "name": "Exploratory testing",
+      "definition": "Challenge a system with varied inputs and record what happens.",
+      "current": 3,
+      "target": 4,
+      "evidence": "Student Tesseract stress-testing account",
+      "action": "Turn one exploratory session into a dated issue log.",
+      "levels": [
+        "Cannot yet suggest a meaningful variation in input.",
+        "Tries variations without recording their purpose or result.",
+        "Targets a failure area and explains an observed problem.",
+        "Systematically explores boundaries and preserves reproducible findings.",
+        "Leads risk-based exploratory sessions and improves others' test coverage."
+      ],
+      "rationale": "The student identified interruption and retrieval problems through varied personal use."
+    },
+    {
+      "id": "T2",
+      "group": "Testing and evaluation",
+      "name": "Failure reproduction",
+      "definition": "Capture conditions that reliably produce a reported defect.",
+      "current": 2,
+      "target": 4,
+      "evidence": "Student recall and approval-interruption reports",
+      "action": "Save minimal inputs, environment details, and expected versus actual output.",
+      "levels": [
+        "Cannot yet describe a failure beyond saying it did not work.",
+        "Describes a failure but lacks sufficient steps to reproduce it.",
+        "Supplies repeatable steps and separates symptom from cause.",
+        "Minimizes intermittent failures and confirms cause with controlled changes.",
+        "Creates reusable diagnostic methods for complex system failures."
+      ],
+      "rationale": "Symptoms are clear, but no captured failing query or approval trace was supplied in this exchange."
+    },
+    {
+      "id": "T3",
+      "group": "Testing and evaluation",
+      "name": "Automated regression",
+      "definition": "Use repeatable checks to protect behavior after changes.",
+      "current": null,
+      "target": 4,
+      "evidence": "E1 and E3 automated test artifacts",
+      "action": "Personally run a focused suite and explain a failing and passing case.",
+      "levels": [
+        "Cannot yet execute or interpret a guided automated check.",
+        "Runs a suite with help but cannot explain its assertions.",
+        "Adds or explains a regression case and interprets its result.",
+        "Maintains representative regression coverage across releases.",
+        "Designs evaluation infrastructure and audits misleading or weak assertions."
+      ],
+      "rationale": "Tests exist in repositories. Personal execution and interpretation remain unassessed, rather than scored as low ability."
+    },
+    {
+      "id": "T4",
+      "group": "Testing and evaluation",
+      "name": "Retrieval evaluation",
+      "definition": "Compare returned evidence against a defined correct or acceptable answer.",
+      "current": 2,
+      "target": 4,
+      "evidence": "Student report of stale or irrelevant memory",
+      "action": "Create 20 queries covering current facts, changes, conflicts, and unknowns.",
+      "levels": [
+        "Cannot yet define a relevant answer for a sample query.",
+        "Judges individual results informally without a stable evaluation set.",
+        "Runs labeled queries and reports relevance or freshness outcomes.",
+        "Compares versions with defined measures and analyzes failures.",
+        "Publishes reproducible evaluations with independent review and contamination controls."
+      ],
+      "rationale": "Informal recall challenges were reported. No measured relevance or freshness score is established."
+    },
+    {
+      "id": "T5",
+      "group": "Testing and evaluation",
+      "name": "User and player testing",
+      "definition": "Observe another person using a flow and revise from evidence.",
+      "current": null,
+      "target": 3,
+      "evidence": "E4 next-step statement and E6 gameplay artifact",
+      "action": "Observe two people performing a task and playing one short session.",
+      "levels": [
+        "Cannot yet define an observable task for a tester.",
+        "Collects general opinions without observing task behavior.",
+        "Observes a task, records difficulties, and makes a justified revision.",
+        "Repeats testing across user types and checks whether revisions help.",
+        "Leads a rigorous user-testing process with defensible outcomes."
+      ],
+      "rationale": "Artifacts establish interfaces and a game. Fresh human test outcomes were not established in the reviewed material."
+    }
+  ]
+}

@@ -1,15 +1,8 @@
-# Assignment 1d: Future Modeling, Advanced Visualization, and Adaptive Planning
+# Historical future-modeling workspace
 
-**Course:** MTEC 4502 — Career and Portfolio Seminar  
-**Due:** Week 5, as listed in the instructor’s brief.
+The earlier archive placed future modeling in 1d. Current instructions use **1d for AI Collaboration and Career Futures** and **1e v2 for future modeling and recursive competency mapping**.
 
-## Assignment instructions
+- [Submitted 1d archive](../01d-ai-collaboration-and-career-futures/README.md)
+- [Current 1e v2 draft](../01e-future-modeling-and-adaptive-planning/README.md)
 
-- [Read the instructor’s full assignment brief](https://github.com/entertainmenttechnology/Smith-MTEC4502-2026F/blob/main/assignments/01d_Future_Modeling_and_Adaptive_Planning.md)
-- [Assignment 1 master overview](https://github.com/entertainmenttechnology/Smith-MTEC4502-2026F/blob/main/assignments/01_Career_Strategy_Master_Overview.md)
-
-## Workspace
-
-Save this part’s drafts, supporting files, and revisions here. Follow the linked brief for required sections, length, research, and submission format. Creating this folder does not indicate completion or submission.
-
-[All Assignment 1 parts](../README.md) · [Assignment map](../../README.md) · [Course dashboard](../../../docs/dashboard.md) · [Main README](../../../README.md)
+This historical path is retained to preserve existing links.

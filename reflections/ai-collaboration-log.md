@@ -4,7 +4,7 @@
 **Assignment Title:** Assignment 00 — Course Workspace and Research Setup  
 **Date:** September 9, 2026
 
-Maintained manually by Harvey. Entries and reflections are updated by the student.
+Student collaboration record. Entries distinguish reported experience, inspected evidence, and work awaiting review.
 
 Based on the instructor’s [AI Collaboration Log Template](https://github.com/entertainmenttechnology/Smith-MTEC4502-2026F/blob/main/assignments/AI_Collaboration_Log_Template.md).
 
@@ -105,4 +105,40 @@ Donna helped me check the document and manage the files, folders, and repository
 
 **Clarification date:** October 14, 2026
 
-When I used the word proofreading in the entries above, I meant that Donna read through my assignments before submission, identified whether any requirements were missing or any material was irrelevant, and checked basic spelling and grammar. This clarification describes that review activity; the research, feedback, visualization, formatting, and file-management contributions are documented separately in their respective entries.
+When I used the word proofreading in the entries above, I meant that Donna read through my assignments before submission, identified whether any requirements were missing or any material was irrelevant, and checked basic spelling and grammar. This clarification describes that review activity. the research, feedback, visualization, formatting, and file-management contributions are documented separately in their respective entries.
+
+
+---
+
+## Assignment 1e draft and repository update
+
+**Date:** November 11, 2026  
+**Tool / system:** Donna through OpenAI Codex. The exact model version is not retained in this record. Earlier development tools and model names were described verbally and some names remain unconfirmed.
+
+### Purpose and prompts
+
+I clarified my goal as applied AI engineering connected with creative production and game development. I explained my Tesseract testing and contribution process, the unresolved recall issue, and my planned Rust system.
+
+**Key prompt, exact excerpt:**
+
+> Inspect those projects' repositories, inspect everything, then come back.
+
+**Repository direction, exact excerpt:**
+
+> Make the repository look nice as well.
+
+Donna inspected the live portfolio, project code, contribution records, and the current course instructions. Donna helped locate and read career research, organize evidence, draft the synthesis, propose ratings and rubrics, create charts and a PDF, and update the repository navigation and trackers. The essay is written in my first-person voice from my stated direction and experience. That format does not imply that the drafting and organization were unassisted.
+
+### Corrections and authorial decisions
+
+- I distinguished being a contributor from having created Tesseract originally.
+- I clarified that recall problems concerned relevance or freshness rather than necessarily the wrong agent.
+- I reported that fewer interruptions, agent identities, daily maintenance, and live writing work in my own setup.
+- I stated that I did not implement a specific retrieval-freshness correction.
+- I identified the Rust system as future work and the music video as completed but unpublished.
+- Current scores and targets are proposed for my review. They are not yet confirmed as my final assessment.
+- Earlier 1a log language is retained as history. My later clarification states that I wrote the original draft without AI and used permitted workflow/upload assistance.
+
+### Verification and limits
+
+Source links and repository artifacts support the evidence register. Repository test results are described as historical records unless rerun in this work. Live webcam behavior, listening quality, and personal programming depth were not independently established. New Zotero records remain pending authentication. The first 1e package is a review draft, not a submitted assignment or a statement that I have approved all prose and ratings.

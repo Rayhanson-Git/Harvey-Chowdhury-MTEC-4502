@@ -1,0 +1,19 @@
+id,group,competency,current,target,evidence,status
+M1,Main,AI integration,3,4,"E1, E7, E8 and student setup report",provisional
+M2,Main,Programming and debugging,Not assessed,4,"E1, E3, E6 and student code-review account",provisional
+M3,Main,Interactive prototyping,3,4,"E3, E4, E6, E9, E10",provisional
+M4,Main,Creative production,3,4,"E9, E10, E11, E12",provisional
+M5,Main,Testing and evaluation,2,4,"Student Tesseract stress tests, E1 and E3 test artifacts",provisional
+M6,Main,Research and adaptation,3,4,"Prior 1b job analysis, 1d decisions and Tesseract investigation",provisional
+M7,Main,Collaboration and communication,3,4,"E1, E2, E3 reflection and E12",provisional
+M8,Main,Workflow and delivery,4,4,"E3, E5-E12 and repository release records",provisional
+A1,AI integration,Model and tool configuration,3,4,"E7, E8 and student Tesseract setup",provisional
+A2,AI integration,Memory workflows,3,4,E1 and student report of daily maintenance and live writes,provisional
+A3,AI integration,Agent identity and shared writes,3,4,E1 and its multi-agent test file,provisional
+A4,AI integration,Retrieval relevance and freshness,2,4,Student report of stale or less relevant recall,provisional
+A5,AI integration,Autonomous operation,3,4,Student report of daily maintenance and fewer interruptions,provisional
+T1,Testing and evaluation,Exploratory testing,3,4,Student Tesseract stress-testing account,provisional
+T2,Testing and evaluation,Failure reproduction,2,4,Student recall and approval-interruption reports,provisional
+T3,Testing and evaluation,Automated regression,Not assessed,4,E1 and E3 automated test artifacts,provisional
+T4,Testing and evaluation,Retrieval evaluation,2,4,Student report of stale or irrelevant memory,provisional
+T5,Testing and evaluation,User and player testing,Not assessed,3,E4 next-step statement and E6 gameplay artifact,provisional
