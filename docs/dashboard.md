@@ -1,6 +1,6 @@
 # Course dashboard
 
-**Last reviewed:** November 11, 2026 · **Current focus:** Assignment 1e submitted
+**Last reviewed:** November 11, 2026 · **Current focus:** Assignment 1e submitted, 1f optional reflection completed
 
 Dates below are retained from the initial syllabus review. Assignment 1a and 1b requirements and status were refreshed on October 7, 2026. the Assignment 1c brief and sources were also checked that day. Harvey confirmed that Assignments 1a and 1b are complete and uploaded to Brightspace. Exact upload timestamps and any Brightspace-only deadline updates are not recorded. Submission status follows Harvey’s confirmation. Harvey reconfirmed 1a-1c submissions on October 12, 2026 and confirmed the Assignment 1d Brightspace upload on October 14, 2026. These confirmations are not independently inspected Brightspace receipts.
 
@@ -12,7 +12,7 @@ Dates below are retained from the initial syllabus review. Assignment 1a and 1b 
 | 1c · Visualization | 09/23 (initial syllabus. current brief says Week 4) | All course job sites. 150-200-word tool comparison. SWOT. skills-gap chart. 150-word reflection. analyzed ads in own Zotero subcollection | 22 site records reviewed with access limits identified. both visuals labeled. targets trace to employer evidence | Submitted | Brightspace upload confirmed by Harvey October 12. await instructor feedback |
 | 1d · AI Collaboration and Career Futures | Before the next class, per current brief. exact timestamp unrecorded | Career-evidence summary. interaction record. 400-600-word analysis. two scenarios. framework decision | Evidence tracing, substantive follow-ups, scenario assumptions, verified observation and reasoned decision | Submitted | [PDF and Markdown](../assignments/01-career-strategy/01d-ai-collaboration-and-career-futures/README.md) archived. upload confirmed by Harvey October 14. await feedback |
 | 1e · Future Modeling and Adaptive Planning | Week 6 in current brief. confirm Brightspace timing | 500-750-word synthesis. core reading and new sources. main radar and sub-radars. competency rubric and action plan | Observable competencies, source evidence, recursive analysis and growth actions | Submitted | Brightspace upload confirmed by Harvey November 11. Await instructor feedback |
-| 02 · Résumé draft | 10/07 | Résumé draft | Consult current assignment brief | Not started | Gather existing résumé |
+| 1f · Cumulative AI reflection | Retired in master overview | Optional prompt log, critical reflection and attribution | Reviewable supplemental record | Completed (optional) | [GitHub folder](../assignments/01-career-strategy/01f-ai-collaboration-analysis-and-critical-reflection/README.md); no separate Brightspace entry |\n| 02 · Résumé draft | 10/07 | Résumé draft | Consult current assignment brief | Not started | Gather existing résumé |
 | Portfolio selection checkpoint | 10/14 | Portfolio item list and platform selection | Working links, selected evidence, and platform rationale | In progress | Nine projects are published at rayhanson.tech. Formal course submission remains unverified |
 | Résumé + portfolio checkpoint | 10/21 | Updated résumé and portfolio draft | Consult current assignment brief | In progress | Live portfolio inspected November 11. Resume and formal checkpoint submissions need reconciliation |
 | Portfolio update | 10/28 | Portfolio update | Consult current assignment brief | In progress | Live site and source inspected. Instructor assessment remains unverified |
@@ -25,7 +25,7 @@ Dates below are retained from the initial syllabus review. Assignment 1a and 1b 
 
 ## Priority actions
 
-1. Read the current Assignment 1f instructions and prepare the cumulative reflection.
+1. Assignment 1f supplemental reflection is completed in GitHub. The course master overview retires this component, so no separate Brightspace submission is recorded.
 2. Record instructor feedback for Assignments 1a-1e when available.
 
 ## Assignment 1b checkpoint
