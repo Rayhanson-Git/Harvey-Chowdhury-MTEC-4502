@@ -1,9 +1,9 @@
-# Assignment 1f - Collaboration Analysis and Critical Reflection
+# Assignment 1F - AI Collaboration Analysis and Critical Reflection
 
-**Progress:** Not started. Existing interaction records are supporting evidence, not a completed cumulative reflection.
+**Status:** Completed as an optional supplement.
 
-[Current brief](https://github.com/entertainmenttechnology/Smith-MTEC4502-2026F/blob/main/assignments/01f_AI_Analysis_and_Reflection.md)
+[Read the reflection](Assignment_1f.md)
 
-The brief requires a process and prompt log plus a 400-600-word critical reflection across Assignment 1. It is distinct from 1d's specific exchange. The current due label is Week 6. A revised Brightspace timestamp is unverified.
+Assignment 1F was retired in the course's master overview. I included this reflection for completeness in case it is useful. The instructor is welcome to disregard it.
 
-[Collaboration record](../../../reflections/ai-collaboration-log.md) · [Career strategy map](../README.md)
+[Original 1F brief](https://github.com/entertainmenttechnology/Smith-MTEC4502-2026F/blob/main/assignments/01f_AI_Analysis_and_Reflection.md) · [Collaboration log](../../../reflections/ai-collaboration-log.md) · [Career strategy](../README.md)
