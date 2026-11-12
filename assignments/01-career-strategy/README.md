@@ -9,7 +9,7 @@
 | 1c | [Integrating visualization](01c-integrating-visualization/README.md) | Submitted |
 | 1d | [AI Collaboration and Career Futures](01d-ai-collaboration-and-career-futures/README.md) | Submitted |
 | 1e | [Future modeling and recursive competency mapping](01e-future-modeling-and-adaptive-planning/README.md) | Submitted |
-| 1f | [Cumulative collaboration reflection](01f-ai-collaboration-analysis-and-critical-reflection/README.md) | Not started |
+| 1f | [Cumulative collaboration reflection](01f-ai-collaboration-analysis-and-critical-reflection/README.md) | Completed, optional (retired component) |
 
 Submitted states follow Harvey's confirmations. Harvey confirmed the Assignment 1e Brightspace upload on November 11, 2026.
 
