@@ -2,7 +2,7 @@
 
 **Status:** Completed as an optional supplement.
 
-[Read the reflection](Assignment_1f.md)
+[View PDF](Assignment_1f.pdf) · [Read editable Markdown](Assignment_1f.md)
 
 Assignment 1F was retired in the course's master overview. I included this reflection for completeness in case it is useful. The instructor is welcome to disregard it.
 
