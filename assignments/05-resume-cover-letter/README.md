@@ -2,14 +2,14 @@
 
 **Harvey Chowdhury · MTEC 4502 · Dr. David B. Smith**  
 **Finalized:** November 15, 2026  
-**Status:** Ready to submit — Brightspace upload not yet confirmed.
+**Status:** Submitted via GitHub — confirmed by Harvey on November 15, 2026.
 
 ## Submission files
 
 1. [Harvey_Chowdhury_Assignment_2_Resume.pdf](Harvey_Chowdhury_Assignment_2_Resume.pdf) — one-page résumé.
 2. [Harvey_Chowdhury_Assignment_2_Analysis.pdf](Harvey_Chowdhury_Assignment_2_Analysis.pdf) — two-paragraph résumé comparison on page 1, followed by the competency map, eight assessment rubrics, three development priorities, and workshop preparation.
 
-Upload the two PDFs to Brightspace. The one-page limit applies to the résumé; the comparative analysis remains two paragraphs.
+Harvey confirmed that there is no Brightspace submission entry and that [commit 3eba340](https://github.com/Rayhanson-Git/Harvey-Chowdhury-MTEC-4502/commit/3eba340fd6422813c4ac3a8a3f7f4dacac02a8e4) completes submission. No additional upload is needed. The one-page limit applies to the résumé; the comparative analysis remains two paragraphs.
 
 ## Editable files and process record
 

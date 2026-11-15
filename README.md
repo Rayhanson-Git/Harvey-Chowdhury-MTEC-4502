@@ -20,11 +20,11 @@ This repository records my course work, project evidence, career decisions, and 
 
 ## Current assignment
 
-**Assignment 2 — Ready to submit.** The final one-page résumé and analysis incorporate my current project evidence and confirmed work responsibilities.
+**Assignment 2 — Submitted via GitHub on November 15, 2026.** The final one-page résumé and analysis incorporate my current project evidence and confirmed work responsibilities.
 
 [Final PDFs and editable sources](assignments/05-resume-cover-letter/README.md) · [Donna collaboration log](assignments/05-resume-cover-letter/Harvey_Chowdhury_Assignment_2_Collaboration_Log.md)
 
-Assignments 1A–1E are recorded as submitted based on my confirmations. Assignment 1F remains a completed optional supplement. Assignment 2 has not yet been confirmed submitted to Brightspace.
+Assignments 1A–1E are recorded as submitted based on my confirmations. Assignment 1F remains a completed optional supplement. Harvey confirmed that the GitHub commit completes Assignment 2; there is no separate Brightspace submission entry. [Submission commit](https://github.com/Rayhanson-Git/Harvey-Chowdhury-MTEC-4502/commit/3eba340fd6422813c4ac3a8a3f7f4dacac02a8e4).
 
 ## Selected evidence
 

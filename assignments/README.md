@@ -23,7 +23,7 @@ Assignment 00 documentation is in the [setup checklist](../docs/setup-checklist.
 | 1d - Career futures | [Submitted files](01-career-strategy/01d-ai-collaboration-and-career-futures/README.md) | Submitted to Brightspace, confirmed by Harvey |
 | 1e - Future modeling | [Assignment](01-career-strategy/01e-future-modeling-and-adaptive-planning/README.md) | Submitted to Brightspace, confirmed by Harvey November 11 |
 | 1f - Cumulative reflection | [Optional supplement](01-career-strategy/01f-ai-collaboration-analysis-and-critical-reflection/README.md) | Completed, optional (retired component) |
-| 2 - Résumé Development & Analysis | [Final résumé, analysis and Donna collaboration log](05-resume-cover-letter/README.md) | Ready to submit; Brightspace upload not confirmed |
+| 2 - Résumé Development & Analysis | [Final résumé, analysis and Donna collaboration log](05-resume-cover-letter/README.md) | Submitted via GitHub; confirmed by Harvey November 15 |
 
 See the [dashboard](../docs/dashboard.md) for next actions and the submission record.
 

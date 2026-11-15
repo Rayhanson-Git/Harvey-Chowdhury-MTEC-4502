@@ -53,4 +53,4 @@ The résumé describes student-visa guidance, not visa-officer authority or guar
 
 **Attribution:** My experience, career priorities, corrections, and decisions provided the foundation. Donna assisted with synthesis, research comparison, writing, evidence checks, formatting, and organization. The growth activities are future plans, and no peer participation, client outcome, admission result, or personal test execution was invented.
 
-**Submission status:** Final files are ready to submit. A repository commit is separate from Brightspace submission, which has not yet been confirmed.
+**Submission status:** Submitted via GitHub on November 15, 2026. I confirmed that there is no Brightspace submission entry for this assignment and that [commit 3eba340](https://github.com/Rayhanson-Git/Harvey-Chowdhury-MTEC-4502/commit/3eba340fd6422813c4ac3a8a3f7f4dacac02a8e4) completes submission. The earlier Brightspace reminder is superseded.
