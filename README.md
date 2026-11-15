@@ -6,7 +6,7 @@
 
 **Harvey Chowdhury · MTEC 4502 · City Tech · Fall 2026**
 
-[Live portfolio](https://rayhanson.tech/) · [Assignment 1e](assignments/01-career-strategy/01e-future-modeling-and-adaptive-planning/README.md) · [Course dashboard](docs/dashboard.md) · [Project inventory](portfolio-materials/INVENTORY.md)
+[Live portfolio](https://rayhanson.tech/) · [Assignment 2](assignments/05-resume-cover-letter/README.md) · [Assignment 1e](assignments/01-career-strategy/01e-future-modeling-and-adaptive-planning/README.md) · [Course dashboard](docs/dashboard.md) · [Project inventory](portfolio-materials/INVENTORY.md)
 
 </div>
 
@@ -18,18 +18,19 @@ This repository records my course work, project evidence, career decisions, and 
 
 **Instructor:** Dr. David B. Smith · **Expected graduation:** May 2028
 
-## Latest submission
+## Current assignment
 
-**Assignment 1e - Submitted to Brightspace on November 11, 2026.** The package includes a 593-word synthesis, three complete competency charts, 18 rubrics, annotated research, and an action plan.
+**Assignment 2 — Ready to submit.** The final one-page résumé and analysis incorporate my current project evidence and confirmed work responsibilities.
 
-[Open the assignment](assignments/01-career-strategy/01e-future-modeling-and-adaptive-planning/README.md) · [Read the PDF](assignments/01-career-strategy/01e-future-modeling-and-adaptive-planning/Harvey_Chowdhury_Assignment_1e.pdf)
+[Final PDFs and editable sources](assignments/05-resume-cover-letter/README.md) · [Donna collaboration log](assignments/05-resume-cover-letter/Harvey_Chowdhury_Assignment_2_Collaboration_Log.md)
 
-Programming is level 2 and debugging is level 3. All six research records are saved in the shared Zotero collection. Assignments 1a-1e are recorded as submitted based on my confirmations.
+Assignments 1A–1E are recorded as submitted based on my confirmations. Assignment 1F remains a completed optional supplement. Assignment 2 has not yet been confirmed submitted to Brightspace.
 
 ## Selected evidence
 
 | Direction | Work | What it contributes |
 | --- | --- | --- |
+| Rust agent memory | [Enigma MCP](https://github.com/Rayhanson-Git/enigma) | My Rust MCP server with hybrid retrieval, shared notes and a knowledge graph |
 | Shared agent memory | [Tesseract contribution](https://github.com/DeepExtrema/tesseract/pull/21) | Merged work on concurrent note creation and agent identity |
 | Product development | [JimBro](https://rayhanson.tech/projects/jimbro/) | Scheduling, logging, local data, backups, and a character-driven interface |
 | AI in creative interaction | [Gesture Particles](https://rayhanson.tech/projects/gesture-particles/) · [Virtual Theremin](https://rayhanson.tech/projects/virtual-theremin/) | Existing vision models connected to graphics and sound |
@@ -54,7 +55,7 @@ Programming is level 2 and debugging is level 3. All six research records are sa
 
 ## Next development direction
 
-My planned Rust retrieval system will investigate relevance, dated facts, and conflicting memories. It is a future project, not a completed replacement for Tesseract. My Devil May Cry music video is reported complete and awaiting portfolio publication. Neither is counted as inspected implementation evidence.
+Enigma MCP now has an inspected Rust implementation and passing macOS, Linux and Windows CI. My next priorities are explaining bounded implementation changes, evaluating retrieval relevance and freshness, and recording repeatable regression and setup checks. My [Devil May Cry music video](https://rayhanson.tech/projects/devil-may-cry-music-video/) is published with editing decisions and contributor credits.
 
 ## Working method
 

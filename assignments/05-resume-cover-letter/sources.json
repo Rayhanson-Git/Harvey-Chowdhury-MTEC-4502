@@ -1,0 +1,28 @@
+{
+  "reviewed": "2026-11-12",
+  "collection": "https://www.zotero.org/groups/6416274/mtec/collections/XT52TX5I",
+  "sources": [
+    {
+      "id": "R1",
+      "author": "David Teather",
+      "title": "Software Engineer Resume",
+      "url": "https://dteather.com/resume.pdf",
+      "zotero_key": "84QBWMPP",
+      "sha256": "feebbe0c3adf3e3681bd368620d04a1f10e7268324bed0b539baaa087bb86d07"
+    },
+    {
+      "id": "R2",
+      "author": "Chirayu Babu Jaysawal",
+      "title": "Earlier full-stack resume - Resume(5.5 rated).pdf",
+      "url": "https://github.com/Crusty-chirayu/chirayu-resume/blob/main/Resume(5.5%20rated).pdf",
+      "zotero_key": "8QURTM2C",
+      "git_blob": "7629f42cffa85de22ae1cba1cdb32c8a093f98c7",
+      "sha256": "4529feadd4c3f85b8bcb52ce1277d199a3c2005df65ad33ef05e80f4bfc2e953"
+    }
+  ],
+  "assignment_brief": {
+    "url": "https://github.com/entertainmenttechnology/Smith-MTEC4502-2026F/blob/main/assignments/02_Resume_Development_Assignment.md",
+    "sha": "a35b0046a2c876ab040110bf0914c07531c5aadb",
+    "checked": "2026-11-15"
+  }
+}

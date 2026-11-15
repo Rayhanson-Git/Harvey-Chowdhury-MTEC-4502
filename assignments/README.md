@@ -8,7 +8,7 @@ The first five folder names follow the instructor’s Student Work Template exac
 | [Career visualization](02-career-visualization/README.md) | Template folder with a link to the dedicated Part 1c workspace. |
 | [Portfolio platforms](03-portfolio-platforms/README.md) | Assignment 03 platform evaluation and selection notes. |
 | [Portfolio development](04-ai-portfolio/README.md) | Assignment 06 portfolio development, presentation experiments, and pitch materials. This folder name is retained from the instructor template. |
-| [Résumé and cover letter](05-resume-cover-letter/README.md) | Assignment 02 résumé drafts and Assignment 04 cover-letter drafts. |
+| [Résumé and cover letter](05-resume-cover-letter/README.md) | Assignment 02 final résumé and analysis; Assignment 04 cover-letter workspace. |
 | [Budgeting](06-budgeting/README.md) | Assignment 05 budgeting reflection and standalone artifact. This is an additional folder to accommodate the budgeting assignment. |
 
 Assignment 00 documentation is in the [setup checklist](../docs/setup-checklist.md). No later assignment is marked completed or submitted by creating its folder.
@@ -23,6 +23,7 @@ Assignment 00 documentation is in the [setup checklist](../docs/setup-checklist.
 | 1d - Career futures | [Submitted files](01-career-strategy/01d-ai-collaboration-and-career-futures/README.md) | Submitted to Brightspace, confirmed by Harvey |
 | 1e - Future modeling | [Assignment](01-career-strategy/01e-future-modeling-and-adaptive-planning/README.md) | Submitted to Brightspace, confirmed by Harvey November 11 |
 | 1f - Cumulative reflection | [Optional supplement](01-career-strategy/01f-ai-collaboration-analysis-and-critical-reflection/README.md) | Completed, optional (retired component) |
+| 2 - Résumé Development & Analysis | [Final résumé, analysis and Donna collaboration log](05-resume-cover-letter/README.md) | Ready to submit; Brightspace upload not confirmed |
 
 See the [dashboard](../docs/dashboard.md) for next actions and the submission record.
 

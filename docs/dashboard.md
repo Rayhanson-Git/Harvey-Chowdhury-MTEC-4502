@@ -1,6 +1,6 @@
 # Course dashboard
 
-**Last reviewed:** November 11, 2026 · **Current focus:** Assignment 1e submitted, 1f optional reflection completed
+**Last reviewed:** November 15, 2026 · **Current focus:** Assignment 2 finalized and ready to submit
 
 Dates below are retained from the initial syllabus review. Assignment 1a and 1b requirements and status were refreshed on October 7, 2026. the Assignment 1c brief and sources were also checked that day. Harvey confirmed that Assignments 1a and 1b are complete and uploaded to Brightspace. Exact upload timestamps and any Brightspace-only deadline updates are not recorded. Submission status follows Harvey’s confirmation. Harvey reconfirmed 1a-1c submissions on October 12, 2026 and confirmed the Assignment 1d Brightspace upload on October 14, 2026. These confirmations are not independently inspected Brightspace receipts.
 
@@ -12,7 +12,8 @@ Dates below are retained from the initial syllabus review. Assignment 1a and 1b 
 | 1c · Visualization | 09/23 (initial syllabus. current brief says Week 4) | All course job sites. 150-200-word tool comparison. SWOT. skills-gap chart. 150-word reflection. analyzed ads in own Zotero subcollection | 22 site records reviewed with access limits identified. both visuals labeled. targets trace to employer evidence | Submitted | Brightspace upload confirmed by Harvey October 12. await instructor feedback |
 | 1d · AI Collaboration and Career Futures | Before the next class, per current brief. exact timestamp unrecorded | Career-evidence summary. interaction record. 400-600-word analysis. two scenarios. framework decision | Evidence tracing, substantive follow-ups, scenario assumptions, verified observation and reasoned decision | Submitted | [PDF and Markdown](../assignments/01-career-strategy/01d-ai-collaboration-and-career-futures/README.md) archived. upload confirmed by Harvey October 14. await feedback |
 | 1e · Future Modeling and Adaptive Planning | Week 6 in current brief. confirm Brightspace timing | 500-750-word synthesis. core reading and new sources. main radar and sub-radars. competency rubric and action plan | Observable competencies, source evidence, recursive analysis and growth actions | Submitted | Brightspace upload confirmed by Harvey November 11. Await instructor feedback |
-| 1f · Cumulative AI reflection | Retired in master overview | Optional prompt log, critical reflection and attribution | Reviewable supplemental record | Completed (optional) | [GitHub folder](../assignments/01-career-strategy/01f-ai-collaboration-analysis-and-critical-reflection/README.md); no separate Brightspace entry |\n| 02 · Résumé draft | 10/07 | Résumé draft | Consult current assignment brief | Not started | Gather existing résumé |
+| 1f · Cumulative AI reflection | Retired in master overview | Optional prompt log, critical reflection and attribution | Reviewable supplemental record | Completed (optional) | [GitHub folder](../assignments/01-career-strategy/01f-ai-collaboration-analysis-and-critical-reflection/README.md); no separate Brightspace entry |
+| 02 · Résumé Development & Analysis | Week 6 draft / Week 7 revision in brief; initial syllabus: 10/07 | One-page résumé; two-example comparison; refined competency map; behavior scale; 2–3 growth priorities; workshop preparation | Specific capabilities, relevance, readability, accuracy and evidence | Ready to submit | [Upload final résumé and analysis PDFs to Brightspace](../assignments/05-resume-cover-letter/README.md) |
 | Portfolio selection checkpoint | 10/14 | Portfolio item list and platform selection | Working links, selected evidence, and platform rationale | In progress | Nine projects are published at rayhanson.tech. Formal course submission remains unverified |
 | Résumé + portfolio checkpoint | 10/21 | Updated résumé and portfolio draft | Consult current assignment brief | In progress | Live portfolio inspected November 11. Resume and formal checkpoint submissions need reconciliation |
 | Portfolio update | 10/28 | Portfolio update | Consult current assignment brief | In progress | Live site and source inspected. Instructor assessment remains unverified |
@@ -89,3 +90,14 @@ The live setup checklist marks GitHub client sign-in, Brightspace registration, 
 - Harvey reports permission to catch up. No replacement deadline is recorded.
 
 [Open Assignment 1e](../assignments/01-career-strategy/01e-future-modeling-and-adaptive-planning/README.md)
+
+## November 15 update — Assignment 2
+
+- Final [one-page résumé and analysis](../assignments/05-resume-cover-letter/README.md) are ready to submit.
+- The analysis contains two comparison paragraphs, eight competency rubrics and three development priorities. Both comparison sources are saved in Zotero.
+- The résumé incorporates confirmed City Tech mentoring, ongoing freelance services, Rosedale mathematics/physics teaching and computer-lab leadership, and U.S./Canada education consulting.
+- Enigma is now an inspected Rust implementation, and the Devil May Cry video is published. These current facts supersede the November 11 checkpoint without changing the submitted Assignment 1E.
+- [Donna collaboration log](../assignments/05-resume-cover-letter/Harvey_Chowdhury_Assignment_2_Collaboration_Log.md) records the contributions, student corrections and reported memory/transcription workflow.
+- Workshop questions are prepared. Actual peer feedback and Brightspace submission are not claimed.
+- Harvey authorized the Assignment 2 repository commit on November 15. Completed Assignments 1A–1F remain unchanged.
+- Assignment 4 remains deferred.

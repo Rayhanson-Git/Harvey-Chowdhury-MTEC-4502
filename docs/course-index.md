@@ -36,3 +36,15 @@
 | [1e source notes](../assignments/01-career-strategy/01e-future-modeling-and-adaptive-planning/source-notes.md) | Accessed November 11 | Career research | WEF core, Anthropic research, GDC survey, role example. Four annotated Zotero records saved | 1e |
 
 **Numbering correction:** The older uploaded archive labels reflection 1e and future modeling 1d. Current briefs use 1e for future modeling and 1f for cumulative reflection. Current briefs take priority. Older paths are retained as pointers.
+
+
+## November 15, 2026 — Assignment 2
+
+| Material | Version | Important content | Related work |
+| --- | --- | --- | --- |
+| [Assignment 2 brief](https://github.com/entertainmenttechnology/Smith-MTEC4502-2026F/blob/main/assignments/02_Resume_Development_Assignment.md) | Rechecked November 15; SHA `a35b0046a2c876ab040110bf0914c07531c5aadb` | Two-example analysis in 1–2 paragraphs; one-page résumé; specific competency map/scale; 2–3 growth priorities; workshop preparation | [Final Assignment 2 files](../assignments/05-resume-cover-letter/README.md) |
+| [Résumé guide](https://github.com/entertainmenttechnology/Smith-MTEC4502-2026F/blob/main/resources/resume_development_guide.md) | Dated October 7; inspected SHA `635889fef2585e61d747582f1cdf3452fb578e29` | Readability, relevance, consistent presentation, accurate contribution language and live links | Résumé |
+| [Collaboration-log template](https://github.com/entertainmenttechnology/Smith-MTEC4502-2026F/blob/main/assignments/AI_Collaboration_Log_Template.md) | Rechecked November 15; SHA `56014a15888cb53ffc0831adf7e615541c050a07` | Tool summary, interaction history, human decisions and reflection | Donna collaboration log |
+| [Compared résumés and Zotero records](../assignments/05-resume-cover-letter/sources.json) | Read and saved November 12 | Two public documents and annotations | Two-paragraph analysis |
+
+**Current evidence update:** Enigma is now implemented and inspected, and the music video is published. Earlier index descriptions remain historical records; submitted assignments were not rewritten.

@@ -48,3 +48,13 @@ The portfolio rebuild is the current project. U.S. job relevance, actual duties,
 ## Assignment 1e research
 
 [Four annotated sources and verified Zotero records](../assignments/01-career-strategy/01e-future-modeling-and-adaptive-planning/source-notes.md). All four are saved in the shared course collection.
+
+
+## Assignment 2 résumé-comparison sources
+
+| Source | Zotero record | Use |
+| --- | --- | --- |
+| [David Teather — Software Engineer Resume](https://dteather.com/resume.pdf) | [84QBWMPP](https://www.zotero.org/groups/6416274/mtec/collections/XT52TX5I/items/84QBWMPP/collection) | Effective example: hierarchy, technical contribution and concise outcome statements |
+| [Chirayu Babu Jaysawal — earlier full-stack résumé](https://github.com/Crusty-chirayu/chirayu-resume/blob/main/Resume(5.5%20rated).pdf) | [8QURTM2C](https://www.zotero.org/groups/6416274/mtec/collections/XT52TX5I/items/8QURTM2C/collection) | Less effective example for the target application: crowded selection and broad wording |
+
+Both records were saved and verified November 12, 2026 in Harvey's course collection. The comparison judges these documents, not their authors' abilities; the second filename's numerical rating is not used as independent evidence. [Final analysis and detailed source record](../assignments/05-resume-cover-letter/README.md).

@@ -119,3 +119,17 @@ I clarified my applied AI engineering direction, my contributor role in Tesserac
 I corrected programming to level 2 and debugging to level 3. I requested simpler branding and removal of version and review notices. Four research records were saved to the shared Zotero collection with two-sentence annotations. The completed assignment is ready to submit. Brightspace submission has not been recorded.
 
 My Tesseract retrieval-freshness problem remains unresolved. The music video is completed but unpublished, and the Rust system is future work. Existing repository tests support the evidence record but were not rerun during this preparation.
+
+
+---
+
+## Assignment 2 — Résumé Development & Analysis
+
+**Date:** November 15, 2026  
+**Collaborator:** Donna — my personal AI collaboration system
+
+I used Donna to consolidate the available earlier ideas, course work, résumé, portfolio and repository evidence, and to check inconsistencies against my corrections and supporting sources. My reported wider workflow uses Enigma shared memory and a speech-to-text skill; the [assignment log](../assignments/05-resume-cover-letter/Harvey_Chowdhury_Assignment_2_Collaboration_Log.md) distinguishes that workflow account from the preparation record.
+
+Donna helped develop the two-résumé comparison, refine the competency-to-evidence map, polish the wording and PDF formatting, and organize the final files. I supplied the specific employment corrections, chose the career direction and project priorities, and authorized the repository commit.
+
+[Final files and full collaboration log](../assignments/05-resume-cover-letter/README.md). Ready to submit; Brightspace upload has not been confirmed. Earlier entries are preserved as dated records.
